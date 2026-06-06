@@ -1,0 +1,294 @@
+[
+  {
+    "id": "pro-net-dns-purpose",
+    "title": "DNS Purpose",
+    "domain": "Computer Networks",
+    "topic": "DNS",
+    "difficulty": "Easy",
+    "question": "What does DNS primarily do?",
+    "options": [
+      "Maps domain names to IP addresses",
+      "Encrypts files",
+      "Schedules CPU processes",
+      "Compiles Java code"
+    ],
+    "correctAnswer": [
+      "Maps domain names to IP addresses"
+    ],
+    "explanation": "DNS resolves human-readable names to network addresses. Encryption, scheduling, and compilation are different systems.",
+    "tags": [
+      "Computer Networks",
+      "DNS",
+      "Easy",
+      "dns"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "DNS",
+      "dns"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does DNS primarily do?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-tcp-udp",
+    "title": "TCP vs UDP",
+    "domain": "Computer Networks",
+    "topic": "Transport Layer",
+    "difficulty": "Easy",
+    "question": "Which statement best describes TCP compared with UDP?",
+    "options": [
+      "TCP provides reliable ordered delivery; UDP is connectionless and does not guarantee delivery",
+      "TCP is always faster and never retransmits",
+      "UDP guarantees ordering",
+      "Both require TLS"
+    ],
+    "correctAnswer": [
+      "TCP provides reliable ordered delivery; UDP is connectionless and does not guarantee delivery"
+    ],
+    "explanation": "TCP uses acknowledgements, ordering, and retransmission. UDP is lightweight and connectionless. TCP is not always faster, UDP does not guarantee ordering, and TLS is optional above transport.",
+    "tags": [
+      "Computer Networks",
+      "Transport Layer",
+      "Easy",
+      "tcp",
+      "udp"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "Transport Layer",
+      "tcp",
+      "udp"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which statement best describes TCP compared with UDP?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-three-way-handshake",
+    "title": "TCP Handshake",
+    "domain": "Computer Networks",
+    "topic": "TCP",
+    "difficulty": "Medium",
+    "question": "What is the correct TCP connection establishment sequence?",
+    "options": [
+      "SYN, SYN-ACK, ACK",
+      "ACK, SYN, FIN",
+      "FIN, ACK, SYN",
+      "DNS, ARP, HTTP"
+    ],
+    "correctAnswer": [
+      "SYN, SYN-ACK, ACK"
+    ],
+    "explanation": "TCP's three-way handshake starts with SYN, then SYN-ACK, then ACK. FIN closes connections, and DNS/ARP/HTTP are separate protocols.",
+    "tags": [
+      "Computer Networks",
+      "TCP",
+      "Medium",
+      "tcp",
+      "handshake"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "TCP",
+      "tcp",
+      "handshake"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the correct TCP connection establishment sequence?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-subnet-mask",
+    "title": "Subnet Mask Role",
+    "domain": "Computer Networks",
+    "topic": "Subnetting",
+    "difficulty": "Medium",
+    "question": "What does a subnet mask determine?",
+    "options": [
+      "Which bits identify the network portion of an IP address",
+      "The encryption key length",
+      "The HTTP status code",
+      "The DNS TTL only"
+    ],
+    "correctAnswer": [
+      "Which bits identify the network portion of an IP address"
+    ],
+    "explanation": "The subnet mask splits IP address bits into network and host portions. It is unrelated to encryption keys, HTTP status, or DNS TTL alone.",
+    "tags": [
+      "Computer Networks",
+      "Subnetting",
+      "Medium",
+      "subnetting"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "Subnetting",
+      "subnetting"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does a subnet mask determine?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-http-status",
+    "title": "HTTP 401 vs 403",
+    "domain": "Computer Networks",
+    "topic": "HTTP",
+    "difficulty": "Medium",
+    "question": "What is the difference between HTTP 401 and 403?",
+    "options": [
+      "401 means unauthenticated; 403 means authenticated or identified but not allowed",
+      "Both always mean server crash",
+      "401 means success",
+      "403 means redirect"
+    ],
+    "correctAnswer": [
+      "401 means unauthenticated; 403 means authenticated or identified but not allowed"
+    ],
+    "explanation": "401 asks for valid authentication; 403 means access is forbidden. Neither implies success, redirect, or necessarily a server crash.",
+    "tags": [
+      "Computer Networks",
+      "HTTP",
+      "Medium",
+      "http",
+      "auth"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "HTTP",
+      "http",
+      "auth"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the difference between HTTP 401 and 403?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-nat",
+    "title": "NAT Purpose",
+    "domain": "Computer Networks",
+    "topic": "Routing",
+    "difficulty": "Hard",
+    "question": "Why is NAT commonly used in home or office networks?",
+    "options": [
+      "To let multiple private hosts share a public IP address",
+      "To replace DNS completely",
+      "To guarantee zero latency",
+      "To encrypt all traffic automatically"
+    ],
+    "correctAnswer": [
+      "To let multiple private hosts share a public IP address"
+    ],
+    "explanation": "NAT translates private addresses to a public address. It does not replace DNS, remove latency, or automatically encrypt payloads.",
+    "tags": [
+      "Computer Networks",
+      "Routing",
+      "Hard",
+      "nat",
+      "routing"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "Routing",
+      "nat",
+      "routing"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is NAT commonly used in home or office networks?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-congestion-control",
+    "title": "TCP Congestion Control",
+    "domain": "Computer Networks",
+    "topic": "TCP",
+    "difficulty": "Hard",
+    "question": "What is the main purpose of TCP congestion control?",
+    "options": [
+      "Avoid overwhelming the network by adjusting sending rate",
+      "Convert domain names to IP addresses",
+      "Compress HTML",
+      "Schedule database transactions"
+    ],
+    "correctAnswer": [
+      "Avoid overwhelming the network by adjusting sending rate"
+    ],
+    "explanation": "Congestion control adapts transmission to network conditions. DNS resolves names, compression reduces payload size, and DB scheduling is unrelated.",
+    "tags": [
+      "Computer Networks",
+      "TCP",
+      "Hard",
+      "tcp",
+      "congestion"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "TCP",
+      "tcp",
+      "congestion"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the main purpose of TCP congestion control?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-net-tls-certificate",
+    "title": "TLS Certificate Validation",
+    "domain": "Computer Networks",
+    "topic": "HTTPS",
+    "difficulty": "Hard",
+    "question": "Why does a browser validate a server certificate during HTTPS setup?",
+    "options": [
+      "To verify server identity and establish trust before encrypted communication",
+      "To reduce CSS size",
+      "To choose a database index",
+      "To assign a private IP"
+    ],
+    "correctAnswer": [
+      "To verify server identity and establish trust before encrypted communication"
+    ],
+    "explanation": "Certificate validation proves the server owns a trusted identity. It does not optimize CSS, choose indexes, or assign IPs.",
+    "tags": [
+      "Computer Networks",
+      "HTTPS",
+      "Hard",
+      "tls",
+      "https"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Computer Networks",
+      "HTTPS",
+      "tls",
+      "https"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why does a browser validate a server certificate during HTTPS setup?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

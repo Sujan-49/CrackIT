@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+backend.err.log
+backend.out.log
+v2-next/.next

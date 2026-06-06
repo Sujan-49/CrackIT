@@ -1,0 +1,7584 @@
+{
+  "TCS": {
+    "company": "TCS",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-two-sum-1",
+        "question": "Two Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-palindrome-5",
+        "question": "Valid Palindrome",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-binary-search-8",
+        "question": "Binary Search",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-climbing-stairs-11",
+        "question": "Climbing Stairs",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-missing-number-13",
+        "question": "Missing Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-duplicates-from-sorted-array-16",
+        "question": "Remove Duplicates from Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-first-bad-version-19",
+        "question": "First Bad Version",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-majority-element-22",
+        "question": "Majority Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-middle-of-the-linked-list-24",
+        "question": "Middle of the Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-roman-to-integer-27",
+        "question": "Roman to Integer",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-plus-one-30",
+        "question": "Plus One",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-single-number-33",
+        "question": "Single Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-happy-number-35",
+        "question": "Happy Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Twitter",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-path-sum-38",
+        "question": "Path Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-convert-sorted-array-to-binary-search-tree-40",
+        "question": "Convert Sorted Array to Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-length-of-last-word-43",
+        "question": "Length of Last Word",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-element-45",
+        "question": "Remove Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-word-pattern-48",
+        "question": "Word Pattern",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Dropbox",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-fibonacci-number-50",
+        "question": "Fibonacci Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-palindromic-substring-3",
+        "question": "Longest Palindromic Substring",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-letter-combinations-of-a-phone-number-6",
+        "question": "Letter Combinations of a Phone Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-in-rotated-sorted-array-9",
+        "question": "Search in Rotated Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-permutations-12",
+        "question": "Permutations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-subarray-kadane-s-15",
+        "question": "Maximum Subarray (Kadane's)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-merge-intervals-18",
+        "question": "Merge Intervals",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-set-matrix-zeroes-21",
+        "question": "Set Matrix Zeroes",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-combinations-23",
+        "question": "Combinations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-decode-ways-26",
+        "question": "Decode Ways",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-construct-binary-tree-from-preorder-and-inorder-traversal-29",
+        "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-clone-graph-32",
+        "question": "Clone Graph",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-lru-cache-34",
+        "question": "LRU Cache",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-evaluate-reverse-polish-notation-36",
+        "question": "Evaluate Reverse Polish Notation",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-course-schedule-40",
+        "question": "Course Schedule",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-break-43",
+        "question": "Word Break",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-product-of-array-except-self-46",
+        "question": "Product of Array Except Self",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-coin-change-49",
+        "question": "Coin Change",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-top-k-frequent-elements-52",
+        "question": "Top K Frequent Elements",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-a-2d-matrix-55",
+        "question": "Search a 2D Matrix",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-zigzag-conversion-58",
+        "question": "Zigzag Conversion",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-list-61",
+        "question": "Rotate List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-kth-smallest-element-in-a-bst-64",
+        "question": "Kth Smallest Element in a BST",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-palindromic-substrings-67",
+        "question": "Palindromic Substrings",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-house-robber-iii-70",
+        "question": "House Robber III",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-repeating-character-replacement-72",
+        "question": "Longest Repeating Character Replacement",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-task-scheduler-75",
+        "question": "Task Scheduler",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      }
+    ]
+  },
+  "Infosys": {
+    "company": "Infosys",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-valid-parentheses-2",
+        "question": "Valid Parentheses",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-maximum-subarray-7",
+        "question": "Maximum Subarray",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "LinkedIn",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-symmetric-tree-12",
+        "question": "Symmetric Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-power-of-two-17",
+        "question": "Power of Two",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-pascal-s-triangle-21",
+        "question": "Pascal's Triangle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-palindrome-linked-list-25",
+        "question": "Palindrome Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-anagram-29",
+        "question": "Valid Anagram",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Uber",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-intersection-of-two-arrays-34",
+        "question": "Intersection of Two Arrays",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-search-insert-position-39",
+        "question": "Search Insert Position",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Networking"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-add-binary-44",
+        "question": "Add Binary",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-ransom-note-49",
+        "question": "Ransom Note",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-3sum-5",
+        "question": "3Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-first-and-last-position-of-element-in-sorted-array-10",
+        "question": "Find First and Last Position of Element in Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-group-anagrams-14",
+        "question": "Group Anagrams",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-insert-interval-19",
+        "question": "Insert Interval",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-subsets-24",
+        "question": "Subsets",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-binary-tree-level-order-traversal-28",
+        "question": "Binary Tree Level Order Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-gas-station-33",
+        "question": "Gas Station",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-product-subarray-37",
+        "question": "Maximum Product Subarray",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-implement-trie-prefix-tree-41",
+        "question": "Implement Trie (Prefix Tree)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-reorder-list-45",
+        "question": "Reorder List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-wiggle-sort-ii-50",
+        "question": "Wiggle Sort II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-peak-element-54",
+        "question": "Find Peak Element",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-reverse-integer-59",
+        "question": "Reverse Integer",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-a-2d-matrix-ii-63",
+        "question": "Search a 2D Matrix II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-house-robber-68",
+        "question": "House Robber",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-non-overlapping-intervals-73",
+        "question": "Non-overlapping Intervals",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      }
+    ]
+  },
+  "Accenture": {
+    "company": "Accenture",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-two-sum-1",
+        "question": "Two Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-invert-binary-tree-6",
+        "question": "Invert Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-duplicate-number-10",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-contains-duplicate-14",
+        "question": "Contains Duplicate",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-linked-list-cycle-18",
+        "question": "Linked List Cycle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-diameter-of-binary-tree-23",
+        "question": "Diameter of Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-longest-common-prefix-28",
+        "question": "Longest Common Prefix",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-all-numbers-disappeared-in-an-array-32",
+        "question": "Find All Numbers Disappeared in an Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-min-stack-37",
+        "question": "Min Stack",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Stacks"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-merge-sorted-array-42",
+        "question": "Merge Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-ugly-number-47",
+        "question": "Ugly Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-container-with-most-water-4",
+        "question": "Container With Most Water",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Cloud"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-generate-parentheses-8",
+        "question": "Generate Parentheses",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-image-13",
+        "question": "Rotate Image",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-jump-game-17",
+        "question": "Jump Game",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-colors-22",
+        "question": "Sort Colors",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-validate-binary-search-tree-27",
+        "question": "Validate Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-populating-next-right-pointers-in-each-node-31",
+        "question": "Populating Next Right Pointers in Each Node",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-list-35",
+        "question": "Sort List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-number-of-islands-39",
+        "question": "Number of Islands",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-linked-list-cycle-ii-44",
+        "question": "Linked List Cycle II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-increasing-subsequence-48",
+        "question": "Longest Increasing Subsequence",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-kth-largest-element-in-an-array-53",
+        "question": "Kth Largest Element in an Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-string-to-integer-atoi-57",
+        "question": "String to Integer (atoi)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-simplify-path-62",
+        "question": "Simplify Path",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-daily-temperatures-66",
+        "question": "Daily Temperatures",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "AI/ML"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-pacific-atlantic-water-flow-71",
+        "question": "Pacific Atlantic Water Flow",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      }
+    ]
+  },
+  "Cognizant": {
+    "company": "Cognizant",
+    "mappingReason": "Service-company preparation items from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-two-sum-1",
+        "question": "Two Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-parentheses-2",
+        "question": "Valid Parentheses",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-palindrome-5",
+        "question": "Valid Palindrome",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-invert-binary-tree-6",
+        "question": "Invert Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-maximum-subarray-7",
+        "question": "Maximum Subarray",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "LinkedIn",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-binary-search-8",
+        "question": "Binary Search",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-duplicate-number-10",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-climbing-stairs-11",
+        "question": "Climbing Stairs",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-symmetric-tree-12",
+        "question": "Symmetric Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-missing-number-13",
+        "question": "Missing Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-contains-duplicate-14",
+        "question": "Contains Duplicate",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-duplicates-from-sorted-array-16",
+        "question": "Remove Duplicates from Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-power-of-two-17",
+        "question": "Power of Two",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-linked-list-cycle-18",
+        "question": "Linked List Cycle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-first-bad-version-19",
+        "question": "First Bad Version",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-pascal-s-triangle-21",
+        "question": "Pascal's Triangle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-majority-element-22",
+        "question": "Majority Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-diameter-of-binary-tree-23",
+        "question": "Diameter of Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-middle-of-the-linked-list-24",
+        "question": "Middle of the Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-palindrome-linked-list-25",
+        "question": "Palindrome Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-roman-to-integer-27",
+        "question": "Roman to Integer",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-longest-common-prefix-28",
+        "question": "Longest Common Prefix",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-anagram-29",
+        "question": "Valid Anagram",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Uber",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-plus-one-30",
+        "question": "Plus One",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-all-numbers-disappeared-in-an-array-32",
+        "question": "Find All Numbers Disappeared in an Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-single-number-33",
+        "question": "Single Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-intersection-of-two-arrays-34",
+        "question": "Intersection of Two Arrays",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-happy-number-35",
+        "question": "Happy Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Twitter",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-min-stack-37",
+        "question": "Min Stack",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Stacks"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-path-sum-38",
+        "question": "Path Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-search-insert-position-39",
+        "question": "Search Insert Position",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Networking"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-convert-sorted-array-to-binary-search-tree-40",
+        "question": "Convert Sorted Array to Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-merge-sorted-array-42",
+        "question": "Merge Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-length-of-last-word-43",
+        "question": "Length of Last Word",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-add-binary-44",
+        "question": "Add Binary",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-element-45",
+        "question": "Remove Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-ugly-number-47",
+        "question": "Ugly Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-word-pattern-48",
+        "question": "Word Pattern",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Dropbox",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-ransom-note-49",
+        "question": "Ransom Note",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-fibonacci-number-50",
+        "question": "Fibonacci Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-palindromic-substring-3",
+        "question": "Longest Palindromic Substring",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-container-with-most-water-4",
+        "question": "Container With Most Water",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Cloud"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-3sum-5",
+        "question": "3Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-letter-combinations-of-a-phone-number-6",
+        "question": "Letter Combinations of a Phone Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-generate-parentheses-8",
+        "question": "Generate Parentheses",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-in-rotated-sorted-array-9",
+        "question": "Search in Rotated Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-first-and-last-position-of-element-in-sorted-array-10",
+        "question": "Find First and Last Position of Element in Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-permutations-12",
+        "question": "Permutations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-image-13",
+        "question": "Rotate Image",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-group-anagrams-14",
+        "question": "Group Anagrams",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-subarray-kadane-s-15",
+        "question": "Maximum Subarray (Kadane's)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-jump-game-17",
+        "question": "Jump Game",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-merge-intervals-18",
+        "question": "Merge Intervals",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-insert-interval-19",
+        "question": "Insert Interval",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-set-matrix-zeroes-21",
+        "question": "Set Matrix Zeroes",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-colors-22",
+        "question": "Sort Colors",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-combinations-23",
+        "question": "Combinations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-subsets-24",
+        "question": "Subsets",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-decode-ways-26",
+        "question": "Decode Ways",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-validate-binary-search-tree-27",
+        "question": "Validate Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-binary-tree-level-order-traversal-28",
+        "question": "Binary Tree Level Order Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-construct-binary-tree-from-preorder-and-inorder-traversal-29",
+        "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-populating-next-right-pointers-in-each-node-31",
+        "question": "Populating Next Right Pointers in Each Node",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-clone-graph-32",
+        "question": "Clone Graph",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-gas-station-33",
+        "question": "Gas Station",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-lru-cache-34",
+        "question": "LRU Cache",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-list-35",
+        "question": "Sort List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-evaluate-reverse-polish-notation-36",
+        "question": "Evaluate Reverse Polish Notation",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-product-subarray-37",
+        "question": "Maximum Product Subarray",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-number-of-islands-39",
+        "question": "Number of Islands",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-course-schedule-40",
+        "question": "Course Schedule",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-implement-trie-prefix-tree-41",
+        "question": "Implement Trie (Prefix Tree)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-break-43",
+        "question": "Word Break",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-linked-list-cycle-ii-44",
+        "question": "Linked List Cycle II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-reorder-list-45",
+        "question": "Reorder List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-product-of-array-except-self-46",
+        "question": "Product of Array Except Self",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-increasing-subsequence-48",
+        "question": "Longest Increasing Subsequence",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-coin-change-49",
+        "question": "Coin Change",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-wiggle-sort-ii-50",
+        "question": "Wiggle Sort II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-top-k-frequent-elements-52",
+        "question": "Top K Frequent Elements",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      }
+    ]
+  },
+  "Wipro": {
+    "company": "Wipro",
+    "mappingReason": "Service-company preparation items from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-two-sum-1",
+        "question": "Two Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-parentheses-2",
+        "question": "Valid Parentheses",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-palindrome-5",
+        "question": "Valid Palindrome",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-invert-binary-tree-6",
+        "question": "Invert Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-maximum-subarray-7",
+        "question": "Maximum Subarray",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "LinkedIn",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-binary-search-8",
+        "question": "Binary Search",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-duplicate-number-10",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-climbing-stairs-11",
+        "question": "Climbing Stairs",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-symmetric-tree-12",
+        "question": "Symmetric Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-missing-number-13",
+        "question": "Missing Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-contains-duplicate-14",
+        "question": "Contains Duplicate",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-duplicates-from-sorted-array-16",
+        "question": "Remove Duplicates from Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-power-of-two-17",
+        "question": "Power of Two",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-linked-list-cycle-18",
+        "question": "Linked List Cycle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-first-bad-version-19",
+        "question": "First Bad Version",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-pascal-s-triangle-21",
+        "question": "Pascal's Triangle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-majority-element-22",
+        "question": "Majority Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-diameter-of-binary-tree-23",
+        "question": "Diameter of Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-middle-of-the-linked-list-24",
+        "question": "Middle of the Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-palindrome-linked-list-25",
+        "question": "Palindrome Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-roman-to-integer-27",
+        "question": "Roman to Integer",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-longest-common-prefix-28",
+        "question": "Longest Common Prefix",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-anagram-29",
+        "question": "Valid Anagram",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Uber",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-plus-one-30",
+        "question": "Plus One",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-all-numbers-disappeared-in-an-array-32",
+        "question": "Find All Numbers Disappeared in an Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-single-number-33",
+        "question": "Single Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-intersection-of-two-arrays-34",
+        "question": "Intersection of Two Arrays",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-happy-number-35",
+        "question": "Happy Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Twitter",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-min-stack-37",
+        "question": "Min Stack",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Stacks"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-path-sum-38",
+        "question": "Path Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-search-insert-position-39",
+        "question": "Search Insert Position",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Networking"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-convert-sorted-array-to-binary-search-tree-40",
+        "question": "Convert Sorted Array to Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-merge-sorted-array-42",
+        "question": "Merge Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-length-of-last-word-43",
+        "question": "Length of Last Word",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-add-binary-44",
+        "question": "Add Binary",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-element-45",
+        "question": "Remove Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-ugly-number-47",
+        "question": "Ugly Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-word-pattern-48",
+        "question": "Word Pattern",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Dropbox",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-ransom-note-49",
+        "question": "Ransom Note",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-fibonacci-number-50",
+        "question": "Fibonacci Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-palindromic-substring-3",
+        "question": "Longest Palindromic Substring",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-container-with-most-water-4",
+        "question": "Container With Most Water",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Cloud"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-3sum-5",
+        "question": "3Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-letter-combinations-of-a-phone-number-6",
+        "question": "Letter Combinations of a Phone Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-generate-parentheses-8",
+        "question": "Generate Parentheses",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-in-rotated-sorted-array-9",
+        "question": "Search in Rotated Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-first-and-last-position-of-element-in-sorted-array-10",
+        "question": "Find First and Last Position of Element in Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-permutations-12",
+        "question": "Permutations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-image-13",
+        "question": "Rotate Image",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-group-anagrams-14",
+        "question": "Group Anagrams",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-subarray-kadane-s-15",
+        "question": "Maximum Subarray (Kadane's)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-jump-game-17",
+        "question": "Jump Game",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-merge-intervals-18",
+        "question": "Merge Intervals",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-insert-interval-19",
+        "question": "Insert Interval",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-set-matrix-zeroes-21",
+        "question": "Set Matrix Zeroes",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-colors-22",
+        "question": "Sort Colors",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-combinations-23",
+        "question": "Combinations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-subsets-24",
+        "question": "Subsets",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-decode-ways-26",
+        "question": "Decode Ways",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-validate-binary-search-tree-27",
+        "question": "Validate Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-binary-tree-level-order-traversal-28",
+        "question": "Binary Tree Level Order Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-construct-binary-tree-from-preorder-and-inorder-traversal-29",
+        "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-populating-next-right-pointers-in-each-node-31",
+        "question": "Populating Next Right Pointers in Each Node",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-clone-graph-32",
+        "question": "Clone Graph",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-gas-station-33",
+        "question": "Gas Station",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-lru-cache-34",
+        "question": "LRU Cache",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-list-35",
+        "question": "Sort List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-evaluate-reverse-polish-notation-36",
+        "question": "Evaluate Reverse Polish Notation",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-product-subarray-37",
+        "question": "Maximum Product Subarray",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-number-of-islands-39",
+        "question": "Number of Islands",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-course-schedule-40",
+        "question": "Course Schedule",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-implement-trie-prefix-tree-41",
+        "question": "Implement Trie (Prefix Tree)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-break-43",
+        "question": "Word Break",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-linked-list-cycle-ii-44",
+        "question": "Linked List Cycle II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-reorder-list-45",
+        "question": "Reorder List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-product-of-array-except-self-46",
+        "question": "Product of Array Except Self",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-increasing-subsequence-48",
+        "question": "Longest Increasing Subsequence",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-coin-change-49",
+        "question": "Coin Change",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-wiggle-sort-ii-50",
+        "question": "Wiggle Sort II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-top-k-frequent-elements-52",
+        "question": "Top K Frequent Elements",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      }
+    ]
+  },
+  "Capgemini": {
+    "company": "Capgemini",
+    "mappingReason": "Service-company preparation items from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-two-sum-1",
+        "question": "Two Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-parentheses-2",
+        "question": "Valid Parentheses",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-palindrome-5",
+        "question": "Valid Palindrome",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-invert-binary-tree-6",
+        "question": "Invert Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-maximum-subarray-7",
+        "question": "Maximum Subarray",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "LinkedIn",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-binary-search-8",
+        "question": "Binary Search",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-duplicate-number-10",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-climbing-stairs-11",
+        "question": "Climbing Stairs",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-symmetric-tree-12",
+        "question": "Symmetric Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-missing-number-13",
+        "question": "Missing Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-contains-duplicate-14",
+        "question": "Contains Duplicate",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-duplicates-from-sorted-array-16",
+        "question": "Remove Duplicates from Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-power-of-two-17",
+        "question": "Power of Two",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-linked-list-cycle-18",
+        "question": "Linked List Cycle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-first-bad-version-19",
+        "question": "First Bad Version",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-pascal-s-triangle-21",
+        "question": "Pascal's Triangle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-majority-element-22",
+        "question": "Majority Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-diameter-of-binary-tree-23",
+        "question": "Diameter of Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-middle-of-the-linked-list-24",
+        "question": "Middle of the Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-palindrome-linked-list-25",
+        "question": "Palindrome Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-roman-to-integer-27",
+        "question": "Roman to Integer",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-longest-common-prefix-28",
+        "question": "Longest Common Prefix",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-valid-anagram-29",
+        "question": "Valid Anagram",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Uber",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-plus-one-30",
+        "question": "Plus One",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-all-numbers-disappeared-in-an-array-32",
+        "question": "Find All Numbers Disappeared in an Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-single-number-33",
+        "question": "Single Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-intersection-of-two-arrays-34",
+        "question": "Intersection of Two Arrays",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-happy-number-35",
+        "question": "Happy Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Twitter",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-min-stack-37",
+        "question": "Min Stack",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Stacks"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-path-sum-38",
+        "question": "Path Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-search-insert-position-39",
+        "question": "Search Insert Position",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Networking"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-convert-sorted-array-to-binary-search-tree-40",
+        "question": "Convert Sorted Array to Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-merge-sorted-array-42",
+        "question": "Merge Sorted Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-length-of-last-word-43",
+        "question": "Length of Last Word",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Apple",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-add-binary-44",
+        "question": "Add Binary",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-element-45",
+        "question": "Remove Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-ugly-number-47",
+        "question": "Ugly Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-word-pattern-48",
+        "question": "Word Pattern",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Dropbox",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-ransom-note-49",
+        "question": "Ransom Note",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-fibonacci-number-50",
+        "question": "Fibonacci Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-palindromic-substring-3",
+        "question": "Longest Palindromic Substring",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-container-with-most-water-4",
+        "question": "Container With Most Water",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Cloud"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-3sum-5",
+        "question": "3Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-letter-combinations-of-a-phone-number-6",
+        "question": "Letter Combinations of a Phone Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-generate-parentheses-8",
+        "question": "Generate Parentheses",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-in-rotated-sorted-array-9",
+        "question": "Search in Rotated Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-first-and-last-position-of-element-in-sorted-array-10",
+        "question": "Find First and Last Position of Element in Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-permutations-12",
+        "question": "Permutations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-image-13",
+        "question": "Rotate Image",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-group-anagrams-14",
+        "question": "Group Anagrams",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-subarray-kadane-s-15",
+        "question": "Maximum Subarray (Kadane's)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-jump-game-17",
+        "question": "Jump Game",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-merge-intervals-18",
+        "question": "Merge Intervals",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-insert-interval-19",
+        "question": "Insert Interval",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-set-matrix-zeroes-21",
+        "question": "Set Matrix Zeroes",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-colors-22",
+        "question": "Sort Colors",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-combinations-23",
+        "question": "Combinations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-subsets-24",
+        "question": "Subsets",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-decode-ways-26",
+        "question": "Decode Ways",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-validate-binary-search-tree-27",
+        "question": "Validate Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-binary-tree-level-order-traversal-28",
+        "question": "Binary Tree Level Order Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-construct-binary-tree-from-preorder-and-inorder-traversal-29",
+        "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-populating-next-right-pointers-in-each-node-31",
+        "question": "Populating Next Right Pointers in Each Node",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-clone-graph-32",
+        "question": "Clone Graph",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-gas-station-33",
+        "question": "Gas Station",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-lru-cache-34",
+        "question": "LRU Cache",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-sort-list-35",
+        "question": "Sort List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-evaluate-reverse-polish-notation-36",
+        "question": "Evaluate Reverse Polish Notation",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-product-subarray-37",
+        "question": "Maximum Product Subarray",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-number-of-islands-39",
+        "question": "Number of Islands",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-course-schedule-40",
+        "question": "Course Schedule",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-implement-trie-prefix-tree-41",
+        "question": "Implement Trie (Prefix Tree)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Meta",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-break-43",
+        "question": "Word Break",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-linked-list-cycle-ii-44",
+        "question": "Linked List Cycle II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-reorder-list-45",
+        "question": "Reorder List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-product-of-array-except-self-46",
+        "question": "Product of Array Except Self",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-increasing-subsequence-48",
+        "question": "Longest Increasing Subsequence",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-coin-change-49",
+        "question": "Coin Change",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-wiggle-sort-ii-50",
+        "question": "Wiggle Sort II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-top-k-frequent-elements-52",
+        "question": "Top K Frequent Elements",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      }
+    ]
+  },
+  "Amazon": {
+    "company": "Amazon",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-two-sum-1",
+        "question": "Two Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-merge-two-sorted-lists-3",
+        "question": "Merge Two Sorted Lists",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-easy-best-time-to-buy-and-sell-stock-4",
+        "question": "Best Time to Buy and Sell Stock",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-reverse-linked-list-9",
+        "question": "Reverse Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-missing-number-13",
+        "question": "Missing Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-linked-list-cycle-18",
+        "question": "Linked List Cycle",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-majority-element-22",
+        "question": "Majority Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-palindrome-linked-list-25",
+        "question": "Palindrome Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-longest-common-prefix-28",
+        "question": "Longest Common Prefix",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-single-number-33",
+        "question": "Single Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-min-stack-37",
+        "question": "Min Stack",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Stacks"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-convert-sorted-array-to-binary-search-tree-40",
+        "question": "Convert Sorted Array to Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-remove-element-45",
+        "question": "Remove Element",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-fibonacci-number-50",
+        "question": "Fibonacci Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-add-two-numbers-1",
+        "question": "Add Two Numbers",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-palindromic-substring-3",
+        "question": "Longest Palindromic Substring",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-3sum-5",
+        "question": "3Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-generate-parentheses-8",
+        "question": "Generate Parentheses",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-combination-sum-11",
+        "question": "Combination Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-image-13",
+        "question": "Rotate Image",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-spiral-matrix-16",
+        "question": "Spiral Matrix",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-unique-paths-20",
+        "question": "Unique Paths",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-subsets-24",
+        "question": "Subsets",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-search-25",
+        "question": "Word Search",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-binary-tree-level-order-traversal-28",
+        "question": "Binary Tree Level Order Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-clone-graph-32",
+        "question": "Clone Graph",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-lru-cache-34",
+        "question": "LRU Cache",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-product-subarray-37",
+        "question": "Maximum Product Subarray",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-number-of-islands-39",
+        "question": "Number of Islands",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-design-add-and-search-words-data-structure-42",
+        "question": "Design Add and Search Words Data Structure",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-reorder-list-45",
+        "question": "Reorder List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-the-duplicate-number-47",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-coin-change-49",
+        "question": "Coin Change",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-top-k-frequent-elements-52",
+        "question": "Top K Frequent Elements",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Amazon",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-peak-element-54",
+        "question": "Find Peak Element",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-string-to-integer-atoi-57",
+        "question": "String to Integer (atoi)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-multiply-strings-60",
+        "question": "Multiply Strings",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-a-2d-matrix-ii-63",
+        "question": "Search a 2D Matrix II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-daily-temperatures-66",
+        "question": "Daily Temperatures",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "AI/ML"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-house-robber-ii-69",
+        "question": "House Robber II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-pacific-atlantic-water-flow-71",
+        "question": "Pacific Atlantic Water Flow",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-subarray-sum-equals-k-74",
+        "question": "Subarray Sum Equals K",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-first-missing-positive-9",
+        "question": "First Missing Positive",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Networking"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-text-justification-15",
+        "question": "Text Justification",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-minimum-window-substring-17",
+        "question": "Minimum Window Substring",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-scramble-string-20",
+        "question": "Scramble String",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-21-dynamic-programming-graph-theory-21",
+        "question": "Advanced System Design & Algorithm Challenge #21 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-23-dynamic-programming-graph-theory-23",
+        "question": "Advanced System Design & Algorithm Challenge #23 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-30-dynamic-programming-graph-theory-30",
+        "question": "Advanced System Design & Algorithm Challenge #30 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-31-dynamic-programming-graph-theory-31",
+        "question": "Advanced System Design & Algorithm Challenge #31 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-32-dynamic-programming-graph-theory-32",
+        "question": "Advanced System Design & Algorithm Challenge #32 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-33-dynamic-programming-graph-theory-33",
+        "question": "Advanced System Design & Algorithm Challenge #33 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-45-dynamic-programming-graph-theory-45",
+        "question": "Advanced System Design & Algorithm Challenge #45 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-47-dynamic-programming-graph-theory-47",
+        "question": "Advanced System Design & Algorithm Challenge #47 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-51-dynamic-programming-graph-theory-51",
+        "question": "Advanced System Design & Algorithm Challenge #51 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-55-dynamic-programming-graph-theory-55",
+        "question": "Advanced System Design & Algorithm Challenge #55 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-57-dynamic-programming-graph-theory-57",
+        "question": "Advanced System Design & Algorithm Challenge #57 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-81-dynamic-programming-graph-theory-81",
+        "question": "Advanced System Design & Algorithm Challenge #81 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-84-dynamic-programming-graph-theory-84",
+        "question": "Advanced System Design & Algorithm Challenge #84 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-93-dynamic-programming-graph-theory-93",
+        "question": "Advanced System Design & Algorithm Challenge #93 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon"
+        ]
+      }
+    ]
+  },
+  "Microsoft": {
+    "company": "Microsoft",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-merge-two-sorted-lists-3",
+        "question": "Merge Two Sorted Lists",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Amazon"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-duplicate-number-10",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-symmetric-tree-12",
+        "question": "Symmetric Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-roman-to-integer-27",
+        "question": "Roman to Integer",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-path-sum-38",
+        "question": "Path Sum",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-index-of-the-first-occurrence-in-a-string-46",
+        "question": "Find the Index of the First Occurrence in a String",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-add-two-numbers-1",
+        "question": "Add Two Numbers",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-medium-search-in-rotated-sorted-array-9",
+        "question": "Search in Rotated Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-maximum-subarray-kadane-s-15",
+        "question": "Maximum Subarray (Kadane's)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-set-matrix-zeroes-21",
+        "question": "Set Matrix Zeroes",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-validate-binary-search-tree-27",
+        "question": "Validate Binary Search Tree",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-populating-next-right-pointers-in-each-node-31",
+        "question": "Populating Next Right Pointers in Each Node",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-evaluate-reverse-polish-notation-36",
+        "question": "Evaluate Reverse Polish Notation",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-linked-list-cycle-ii-44",
+        "question": "Linked List Cycle II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-wiggle-sort-ii-50",
+        "question": "Wiggle Sort II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-pow-x-n-56",
+        "question": "Pow(x, n)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-rotate-list-61",
+        "question": "Rotate List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-palindromic-substrings-67",
+        "question": "Palindromic Substrings",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-task-scheduler-75",
+        "question": "Task Scheduler",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Heap"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-hard-reverse-nodes-in-k-group-4",
+        "question": "Reverse Nodes in k-Group",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-longest-valid-parentheses-7",
+        "question": "Longest Valid Parentheses",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-largest-rectangle-in-histogram-18",
+        "question": "Largest Rectangle in Histogram",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Stacks"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-24-dynamic-programming-graph-theory-24",
+        "question": "Advanced System Design & Algorithm Challenge #24 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-39-dynamic-programming-graph-theory-39",
+        "question": "Advanced System Design & Algorithm Challenge #39 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-44-dynamic-programming-graph-theory-44",
+        "question": "Advanced System Design & Algorithm Challenge #44 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-56-dynamic-programming-graph-theory-56",
+        "question": "Advanced System Design & Algorithm Challenge #56 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-62-dynamic-programming-graph-theory-62",
+        "question": "Advanced System Design & Algorithm Challenge #62 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-67-dynamic-programming-graph-theory-67",
+        "question": "Advanced System Design & Algorithm Challenge #67 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-80-dynamic-programming-graph-theory-80",
+        "question": "Advanced System Design & Algorithm Challenge #80 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-88-dynamic-programming-graph-theory-88",
+        "question": "Advanced System Design & Algorithm Challenge #88 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-90-dynamic-programming-graph-theory-90",
+        "question": "Advanced System Design & Algorithm Challenge #90 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-92-dynamic-programming-graph-theory-92",
+        "question": "Advanced System Design & Algorithm Challenge #92 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Microsoft"
+        ]
+      }
+    ]
+  },
+  "Google": {
+    "company": "Google",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-invert-binary-tree-6",
+        "question": "Invert Binary Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-climbing-stairs-11",
+        "question": "Climbing Stairs",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-contains-duplicate-14",
+        "question": "Contains Duplicate",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-power-of-two-17",
+        "question": "Power of Two",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Bit Manipulation"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-easy-middle-of-the-linked-list-24",
+        "question": "Middle of the Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-plus-one-30",
+        "question": "Plus One",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-all-numbers-disappeared-in-an-array-32",
+        "question": "Find All Numbers Disappeared in an Array",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-easy-same-tree-41",
+        "question": "Same Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-ugly-number-47",
+        "question": "Ugly Number",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-substring-without-repeating-characters-2",
+        "question": "Longest Substring Without Repeating Characters",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-letter-combinations-of-a-phone-number-6",
+        "question": "Letter Combinations of a Phone Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-permutations-12",
+        "question": "Permutations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-merge-intervals-18",
+        "question": "Merge Intervals",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-insert-interval-19",
+        "question": "Insert Interval",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-combinations-23",
+        "question": "Combinations",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-construct-binary-tree-from-preorder-and-inorder-traversal-29",
+        "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-gas-station-33",
+        "question": "Gas Station",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-course-schedule-40",
+        "question": "Course Schedule",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-break-43",
+        "question": "Word Break",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-increasing-subsequence-48",
+        "question": "Longest Increasing Subsequence",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-kth-largest-element-in-an-array-53",
+        "question": "Kth Largest Element in an Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Google",
+          "Accenture"
+        ]
+      },
+      {
+        "id": "dsa-medium-zigzag-conversion-58",
+        "question": "Zigzag Conversion",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-kth-smallest-element-in-a-bst-64",
+        "question": "Kth Smallest Element in a BST",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-house-robber-68",
+        "question": "House Robber",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Google",
+          "Infosys"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-repeating-character-replacement-72",
+        "question": "Longest Repeating Character Replacement",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-hard-merge-k-sorted-lists-3",
+        "question": "Merge k Sorted Lists",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-n-queens-ii-14",
+        "question": "N-Queens II",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-35-dynamic-programming-graph-theory-35",
+        "question": "Advanced System Design & Algorithm Challenge #35 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-48-dynamic-programming-graph-theory-48",
+        "question": "Advanced System Design & Algorithm Challenge #48 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-58-dynamic-programming-graph-theory-58",
+        "question": "Advanced System Design & Algorithm Challenge #58 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-60-dynamic-programming-graph-theory-60",
+        "question": "Advanced System Design & Algorithm Challenge #60 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-72-dynamic-programming-graph-theory-72",
+        "question": "Advanced System Design & Algorithm Challenge #72 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-74-dynamic-programming-graph-theory-74",
+        "question": "Advanced System Design & Algorithm Challenge #74 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-82-dynamic-programming-graph-theory-82",
+        "question": "Advanced System Design & Algorithm Challenge #82 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-83-dynamic-programming-graph-theory-83",
+        "question": "Advanced System Design & Algorithm Challenge #83 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-91-dynamic-programming-graph-theory-91",
+        "question": "Advanced System Design & Algorithm Challenge #91 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-96-dynamic-programming-graph-theory-96",
+        "question": "Advanced System Design & Algorithm Challenge #96 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-97-dynamic-programming-graph-theory-97",
+        "question": "Advanced System Design & Algorithm Challenge #97 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Google"
+        ]
+      }
+    ]
+  },
+  "NVIDIA": {
+    "company": "NVIDIA",
+    "mappingReason": "Direct company tags from uploaded Ultimate Tech Interview Master Guide",
+    "source": "Ultimate Tech Interview Master Guide",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer.",
+    "questions": [
+      {
+        "id": "dsa-easy-best-time-to-buy-and-sell-stock-4",
+        "question": "Best Time to Buy and Sell Stock",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-reverse-linked-list-9",
+        "question": "Reverse Linked List",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-intersection-of-two-linked-lists-15",
+        "question": "Intersection of Two Linked Lists",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Airbnb",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-move-zeroes-20",
+        "question": "Move Zeroes",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Bloomberg",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-reverse-string-26",
+        "question": "Reverse String",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Apple",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-sqrt-x-31",
+        "question": "Sqrt(x)",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Apple",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-is-subsequence-36",
+        "question": "Is Subsequence",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Pinterest",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-same-tree-41",
+        "question": "Same Tree",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Google",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-easy-find-the-index-of-the-first-occurrence-in-a-string-46",
+        "question": "Find the Index of the First Occurrence in a String",
+        "type": "DSA",
+        "difficulty": "Easy",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-longest-substring-without-repeating-characters-2",
+        "question": "Longest Substring Without Repeating Characters",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Google",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-remove-nth-node-from-end-of-list-7",
+        "question": "Remove Nth Node From End of List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-combination-sum-11",
+        "question": "Combination Sum",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-spiral-matrix-16",
+        "question": "Spiral Matrix",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-unique-paths-20",
+        "question": "Unique Paths",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-word-search-25",
+        "question": "Word Search",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-flatten-binary-tree-to-linked-list-30",
+        "question": "Flatten Binary Tree to Linked List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-lru-cache-34",
+        "question": "LRU Cache",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA",
+          "TCS"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-minimum-in-rotated-sorted-array-38",
+        "question": "Find Minimum in Rotated Sorted Array",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Meta",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-design-add-and-search-words-data-structure-42",
+        "question": "Design Add and Search Words Data Structure",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-find-the-duplicate-number-47",
+        "question": "Find the Duplicate Number",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-odd-even-linked-list-51",
+        "question": "Odd Even Linked List",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Linked Lists"
+        ],
+        "companyTags": [
+          "Meta",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-pow-x-n-56",
+        "question": "Pow(x, n)",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-multiply-strings-60",
+        "question": "Multiply Strings",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Strings"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-lowest-common-ancestor-of-a-binary-tree-65",
+        "question": "Lowest Common Ancestor of a Binary Tree",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Trees"
+        ],
+        "companyTags": [
+          "Meta",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-house-robber-ii-69",
+        "question": "House Robber II",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-medium-subarray-sum-equals-k-74",
+        "question": "Subarray Sum Equals K",
+        "type": "DSA",
+        "difficulty": "Medium",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "Amazon",
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-median-of-two-sorted-arrays-1",
+        "question": "Median of Two Sorted Arrays",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Arrays"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-regular-expression-matching-2",
+        "question": "Regular Expression Matching",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-sudoku-solver-8",
+        "question": "Sudoku Solver",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Backtracking"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-wildcard-matching-11",
+        "question": "Wildcard Matching",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-jump-game-ii-12",
+        "question": "Jump Game II",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Greedy"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-edit-distance-16",
+        "question": "Edit Distance",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Dynamic Programming"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-49-dynamic-programming-graph-theory-49",
+        "question": "Advanced System Design & Algorithm Challenge #49 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-54-dynamic-programming-graph-theory-54",
+        "question": "Advanced System Design & Algorithm Challenge #54 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-66-dynamic-programming-graph-theory-66",
+        "question": "Advanced System Design & Algorithm Challenge #66 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-71-dynamic-programming-graph-theory-71",
+        "question": "Advanced System Design & Algorithm Challenge #71 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-79-dynamic-programming-graph-theory-79",
+        "question": "Advanced System Design & Algorithm Challenge #79 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-85-dynamic-programming-graph-theory-85",
+        "question": "Advanced System Design & Algorithm Challenge #85 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-98-dynamic-programming-graph-theory-98",
+        "question": "Advanced System Design & Algorithm Challenge #98 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "id": "dsa-hard-advanced-system-design-algorithm-challenge-100-dynamic-programming-graph-theory-100",
+        "question": "Advanced System Design & Algorithm Challenge #100 (Dynamic Programming / Graph Theory)",
+        "type": "DSA",
+        "difficulty": "Hard",
+        "category": "Engineering Fundamentals",
+        "topicTags": [
+          "DSA",
+          "Graphs"
+        ],
+        "companyTags": [
+          "NVIDIA"
+        ]
+      }
+    ]
+  }
+}

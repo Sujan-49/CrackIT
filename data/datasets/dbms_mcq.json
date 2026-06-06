@@ -1,0 +1,294 @@
+[
+  {
+    "id": "pro-dbms-primary-key",
+    "title": "Primary Key Purpose",
+    "domain": "DBMS",
+    "topic": "Keys",
+    "difficulty": "Easy",
+    "question": "What is the purpose of a primary key?",
+    "options": [
+      "Uniquely identify each row in a table",
+      "Encrypt every column",
+      "Allow duplicate rows",
+      "Store only text values"
+    ],
+    "correctAnswer": [
+      "Uniquely identify each row in a table"
+    ],
+    "explanation": "A primary key uniquely identifies table rows and cannot be null. It is not encryption, does not allow duplicates, and is not limited to text.",
+    "tags": [
+      "DBMS",
+      "Keys",
+      "Easy",
+      "keys",
+      "sql"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Keys",
+      "keys",
+      "sql"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the purpose of a primary key?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-index-tradeoff",
+    "title": "Index Trade-off",
+    "domain": "DBMS",
+    "topic": "Indexes",
+    "difficulty": "Easy",
+    "question": "What is a common trade-off of adding indexes?",
+    "options": [
+      "Faster reads but extra storage and slower writes",
+      "Slower reads and faster writes always",
+      "Automatic normalization",
+      "Removal of all duplicates"
+    ],
+    "correctAnswer": [
+      "Faster reads but extra storage and slower writes"
+    ],
+    "explanation": "Indexes speed lookups but must be maintained during writes and consume storage. They do not normalize schema or automatically remove duplicates.",
+    "tags": [
+      "DBMS",
+      "Indexes",
+      "Easy",
+      "indexes"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Indexes",
+      "indexes"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a common trade-off of adding indexes?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-having-where",
+    "title": "WHERE vs HAVING",
+    "domain": "DBMS",
+    "topic": "SQL",
+    "difficulty": "Medium",
+    "question": "When should HAVING be used instead of WHERE?",
+    "options": [
+      "To filter aggregated groups",
+      "To filter rows before grouping only",
+      "To create indexes",
+      "To define primary keys"
+    ],
+    "correctAnswer": [
+      "To filter aggregated groups"
+    ],
+    "explanation": "WHERE filters rows before grouping; HAVING filters groups after aggregation. Index creation and key definition are DDL operations.",
+    "tags": [
+      "DBMS",
+      "SQL",
+      "Medium",
+      "sql",
+      "group-by"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "SQL",
+      "sql",
+      "group-by"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "When should HAVING be used instead of WHERE?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-normalization",
+    "title": "Normalization Goal",
+    "domain": "DBMS",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "What is the main goal of database normalization?",
+    "options": [
+      "Reduce redundancy and update anomalies",
+      "Increase duplicate data",
+      "Disable relationships",
+      "Make every query slower"
+    ],
+    "correctAnswer": [
+      "Reduce redundancy and update anomalies"
+    ],
+    "explanation": "Normalization structures data to reduce duplication and inconsistencies. It does not intentionally duplicate data, disable relationships, or aim to slow queries.",
+    "tags": [
+      "DBMS",
+      "Normalization",
+      "Medium",
+      "normalization"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Normalization",
+      "normalization"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the main goal of database normalization?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-transaction-isolation",
+    "title": "Isolation Level Issue",
+    "domain": "DBMS",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which anomaly occurs when a transaction reads data written by another uncommitted transaction?",
+    "options": [
+      "Dirty read",
+      "Phantom write",
+      "Hash collision",
+      "Dead packet"
+    ],
+    "correctAnswer": [
+      "Dirty read"
+    ],
+    "explanation": "A dirty read observes uncommitted changes that may roll back. Phantom reads involve new rows matching a predicate, hash collisions are data structure issues, and dead packet is not a DB anomaly.",
+    "tags": [
+      "DBMS",
+      "Transactions",
+      "Medium",
+      "transactions",
+      "isolation"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Transactions",
+      "transactions",
+      "isolation"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which anomaly occurs when a transaction reads data written by another uncommitted transaction?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-acid-durability",
+    "title": "ACID Durability",
+    "domain": "DBMS",
+    "topic": "Transactions",
+    "difficulty": "Hard",
+    "question": "What does durability guarantee after a transaction commits?",
+    "options": [
+      "Committed changes survive crashes according to the database guarantees",
+      "Queries become faster forever",
+      "All tables are automatically indexed",
+      "No user can read the data"
+    ],
+    "correctAnswer": [
+      "Committed changes survive crashes according to the database guarantees"
+    ],
+    "explanation": "Durability means committed data persists despite failures. It says nothing about speed, automatic indexes, or access control.",
+    "tags": [
+      "DBMS",
+      "Transactions",
+      "Hard",
+      "acid",
+      "transactions"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Transactions",
+      "acid",
+      "transactions"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does durability guarantee after a transaction commits?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-btree-index",
+    "title": "B-tree Index Strength",
+    "domain": "DBMS",
+    "topic": "Indexes",
+    "difficulty": "Hard",
+    "question": "Why are B-tree indexes commonly used in databases?",
+    "options": [
+      "They support ordered lookups and range scans efficiently",
+      "They only store JSON documents",
+      "They prevent all deadlocks",
+      "They replace transaction logs"
+    ],
+    "correctAnswer": [
+      "They support ordered lookups and range scans efficiently"
+    ],
+    "explanation": "B-trees maintain sorted keys with balanced height, helping equality and range queries. They are not JSON-only, do not prevent all deadlocks, and do not replace logs.",
+    "tags": [
+      "DBMS",
+      "Indexes",
+      "Hard",
+      "indexes",
+      "btree"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Indexes",
+      "indexes",
+      "btree"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why are B-tree indexes commonly used in databases?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dbms-denormalization",
+    "title": "Denormalization Reason",
+    "domain": "DBMS",
+    "topic": "Schema Design",
+    "difficulty": "Hard",
+    "question": "Why might a team intentionally denormalize a database schema?",
+    "options": [
+      "To improve read performance by reducing joins",
+      "To enforce 3NF more strictly",
+      "To remove all redundancy",
+      "To disable caching"
+    ],
+    "correctAnswer": [
+      "To improve read performance by reducing joins"
+    ],
+    "explanation": "Denormalization may duplicate data to reduce join cost in read-heavy systems. It relaxes normalization, adds redundancy, and is separate from caching.",
+    "tags": [
+      "DBMS",
+      "Schema Design",
+      "Hard",
+      "schema",
+      "performance"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DBMS",
+      "Schema Design",
+      "schema",
+      "performance"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why might a team intentionally denormalize a database schema?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

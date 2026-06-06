@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "dsa-medium-add-two-numbers-1",
+    "question": "Add Two Numbers",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Add Two Numbers (Asked in: Amazon, Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-longest-substring-without-repeating-characters-2",
+    "question": "Longest Substring Without Repeating Characters",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Longest Substring Without Repeating Characters (Asked in: Google, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-longest-palindromic-substring-3",
+    "question": "Longest Palindromic Substring",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Longest Palindromic Substring (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-container-with-most-water-4",
+    "question": "Container With Most Water",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Cloud"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Container With Most Water (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-3sum-5",
+    "question": "3Sum",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] 3Sum (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-letter-combinations-of-a-phone-number-6",
+    "question": "Letter Combinations of a Phone Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Letter Combinations of a Phone Number (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-remove-nth-node-from-end-of-list-7",
+    "question": "Remove Nth Node From End of List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Remove Nth Node From End of List (Asked in: Facebook, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-generate-parentheses-8",
+    "question": "Generate Parentheses",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Generate Parentheses (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-search-in-rotated-sorted-array-9",
+    "question": "Search in Rotated Sorted Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Search in Rotated Sorted Array (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-find-first-and-last-position-of-element-in-sorted-array-10",
+    "question": "Find First and Last Position of Element in Sorted Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Find First and Last Position of Element in Sorted Array (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-combination-sum-11",
+    "question": "Combination Sum",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Combination Sum (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-permutations-12",
+    "question": "Permutations",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Permutations (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-rotate-image-13",
+    "question": "Rotate Image",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Rotate Image (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-group-anagrams-14",
+    "question": "Group Anagrams",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Group Anagrams (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-maximum-subarray-kadane-s-15",
+    "question": "Maximum Subarray (Kadane's)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Maximum Subarray (Kadane's) (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-spiral-matrix-16",
+    "question": "Spiral Matrix",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Spiral Matrix (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-jump-game-17",
+    "question": "Jump Game",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Greedy"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Jump Game (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-merge-intervals-18",
+    "question": "Merge Intervals",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Merge Intervals (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-insert-interval-19",
+    "question": "Insert Interval",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Insert Interval (Asked in: Google, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-unique-paths-20",
+    "question": "Unique Paths",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Unique Paths (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-set-matrix-zeroes-21",
+    "question": "Set Matrix Zeroes",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Set Matrix Zeroes (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-sort-colors-22",
+    "question": "Sort Colors",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Sort Colors (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-combinations-23",
+    "question": "Combinations",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Combinations (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-subsets-24",
+    "question": "Subsets",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Subsets (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-word-search-25",
+    "question": "Word Search",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Word Search (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-decode-ways-26",
+    "question": "Decode Ways",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Decode Ways (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-validate-binary-search-tree-27",
+    "question": "Validate Binary Search Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Validate Binary Search Tree (Asked in: Microsoft, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-binary-tree-level-order-traversal-28",
+    "question": "Binary Tree Level Order Traversal",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Binary Tree Level Order Traversal (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-construct-binary-tree-from-preorder-and-inorder-traversal-29",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Construct Binary Tree from Preorder and Inorder Traversal (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-flatten-binary-tree-to-linked-list-30",
+    "question": "Flatten Binary Tree to Linked List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Flatten Binary Tree to Linked List (Asked in: Facebook, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-populating-next-right-pointers-in-each-node-31",
+    "question": "Populating Next Right Pointers in Each Node",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Populating Next Right Pointers in Each Node (Asked in: Microsoft, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-clone-graph-32",
+    "question": "Clone Graph",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Clone Graph (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-gas-station-33",
+    "question": "Gas Station",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Greedy"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Gas Station (Asked in: Google, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-lru-cache-34",
+    "question": "LRU Cache",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] LRU Cache (Asked in: Amazon, Nvidia, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-sort-list-35",
+    "question": "Sort List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Sort List (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-evaluate-reverse-polish-notation-36",
+    "question": "Evaluate Reverse Polish Notation",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Evaluate Reverse Polish Notation (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-maximum-product-subarray-37",
+    "question": "Maximum Product Subarray",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Maximum Product Subarray (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-find-minimum-in-rotated-sorted-array-38",
+    "question": "Find Minimum in Rotated Sorted Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Find Minimum in Rotated Sorted Array (Asked in: Facebook, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-number-of-islands-39",
+    "question": "Number of Islands",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Number of Islands (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-course-schedule-40",
+    "question": "Course Schedule",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Course Schedule (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-implement-trie-prefix-tree-41",
+    "question": "Implement Trie (Prefix Tree)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Implement Trie (Prefix Tree) (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-design-add-and-search-words-data-structure-42",
+    "question": "Design Add and Search Words Data Structure",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Design Add and Search Words Data Structure (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-word-break-43",
+    "question": "Word Break",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Word Break (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-linked-list-cycle-ii-44",
+    "question": "Linked List Cycle II",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Linked List Cycle II (Asked in: Microsoft, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-reorder-list-45",
+    "question": "Reorder List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Reorder List (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-product-of-array-except-self-46",
+    "question": "Product of Array Except Self",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Product of Array Except Self (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-find-the-duplicate-number-47",
+    "question": "Find the Duplicate Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Find the Duplicate Number (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-longest-increasing-subsequence-48",
+    "question": "Longest Increasing Subsequence",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Longest Increasing Subsequence (Asked in: Google, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-coin-change-49",
+    "question": "Coin Change",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Coin Change (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-wiggle-sort-ii-50",
+    "question": "Wiggle Sort II",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Wiggle Sort II (Asked in: Microsoft, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-odd-even-linked-list-51",
+    "question": "Odd Even Linked List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Odd Even Linked List (Asked in: Facebook, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-top-k-frequent-elements-52",
+    "question": "Top K Frequent Elements",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Heap"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Top K Frequent Elements (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-kth-largest-element-in-an-array-53",
+    "question": "Kth Largest Element in an Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Kth Largest Element in an Array (Asked in: Google, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-find-peak-element-54",
+    "question": "Find Peak Element",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Find Peak Element (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-search-a-2d-matrix-55",
+    "question": "Search a 2D Matrix",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Search a 2D Matrix (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-pow-x-n-56",
+    "question": "Pow(x, n)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Pow(x, n) (Asked in: Microsoft, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-string-to-integer-atoi-57",
+    "question": "String to Integer (atoi)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] String to Integer (atoi) (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-zigzag-conversion-58",
+    "question": "Zigzag Conversion",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Zigzag Conversion (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-reverse-integer-59",
+    "question": "Reverse Integer",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Reverse Integer (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-multiply-strings-60",
+    "question": "Multiply Strings",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Multiply Strings (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-rotate-list-61",
+    "question": "Rotate List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Rotate List (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-simplify-path-62",
+    "question": "Simplify Path",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Simplify Path (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-search-a-2d-matrix-ii-63",
+    "question": "Search a 2D Matrix II",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Search a 2D Matrix II (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-kth-smallest-element-in-a-bst-64",
+    "question": "Kth Smallest Element in a BST",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Kth Smallest Element in a BST (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-lowest-common-ancestor-of-a-binary-tree-65",
+    "question": "Lowest Common Ancestor of a Binary Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Lowest Common Ancestor of a Binary Tree (Asked in: Facebook, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-daily-temperatures-66",
+    "question": "Daily Temperatures",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "AI/ML"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Daily Temperatures (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-palindromic-substrings-67",
+    "question": "Palindromic Substrings",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Palindromic Substrings (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-house-robber-68",
+    "question": "House Robber",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] House Robber (Asked in: Google, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-house-robber-ii-69",
+    "question": "House Robber II",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] House Robber II (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-house-robber-iii-70",
+    "question": "House Robber III",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] House Robber III (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-pacific-atlantic-water-flow-71",
+    "question": "Pacific Atlantic Water Flow",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Pacific Atlantic Water Flow (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-longest-repeating-character-replacement-72",
+    "question": "Longest Repeating Character Replacement",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Longest Repeating Character Replacement (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-non-overlapping-intervals-73",
+    "question": "Non-overlapping Intervals",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Non-overlapping Intervals (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-subarray-sum-equals-k-74",
+    "question": "Subarray Sum Equals K",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Subarray Sum Equals K (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-medium-task-scheduler-75",
+    "question": "Task Scheduler",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Medium",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Heap"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Medium] Task Scheduler (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "pro-ai-supervised",
+    "title": "Supervised Learning",
+    "domain": "AI & ML",
+    "topic": "ML Basics",
+    "difficulty": "Easy",
+    "question": "What does supervised learning require?",
+    "options": [
+      "Labeled examples",
+      "Only encrypted files",
+      "No training data",
+      "A DNS server"
+    ],
+    "correctAnswer": [
+      "Labeled examples"
+    ],
+    "explanation": "Supervised learning maps inputs to known outputs using labeled data. Encryption, DNS, and no-data training are unrelated.",
+    "tags": [
+      "AI & ML",
+      "ML Basics",
+      "Easy",
+      "supervised-learning"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "ML Basics",
+      "supervised-learning"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does supervised learning require?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-train-test",
+    "title": "Train/Test Split",
+    "domain": "AI & ML",
+    "topic": "Evaluation",
+    "difficulty": "Easy",
+    "question": "Why do we use a test set?",
+    "options": [
+      "To estimate performance on unseen data",
+      "To train longer on the same examples",
+      "To remove all features",
+      "To convert labels into DNS records"
+    ],
+    "correctAnswer": [
+      "To estimate performance on unseen data"
+    ],
+    "explanation": "A test set approximates generalization. It should not be used for training, does not remove all features, and is unrelated to DNS.",
+    "tags": [
+      "AI & ML",
+      "Evaluation",
+      "Easy",
+      "evaluation"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "Evaluation",
+      "evaluation"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why do we use a test set?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-overfitting",
+    "title": "Overfitting",
+    "domain": "AI & ML",
+    "topic": "Model Generalization",
+    "difficulty": "Medium",
+    "question": "What is overfitting?",
+    "options": [
+      "Model learns training noise and fails to generalize well",
+      "Model has no parameters",
+      "Dataset is always too large",
+      "Network port is blocked"
+    ],
+    "correctAnswer": [
+      "Model learns training noise and fails to generalize well"
+    ],
+    "explanation": "Overfitting means training performance is high but unseen performance suffers. It is not about having no parameters, dataset size alone, or networking.",
+    "tags": [
+      "AI & ML",
+      "Model Generalization",
+      "Medium",
+      "overfitting"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "Model Generalization",
+      "overfitting"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is overfitting?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-precision-recall",
+    "title": "Precision vs Recall",
+    "domain": "AI & ML",
+    "topic": "Evaluation",
+    "difficulty": "Medium",
+    "question": "In a spam classifier, what does high recall mean?",
+    "options": [
+      "Most actual spam emails are detected",
+      "Every predicted spam is always correct",
+      "No emails are scanned",
+      "The model trains without labels"
+    ],
+    "correctAnswer": [
+      "Most actual spam emails are detected"
+    ],
+    "explanation": "Recall measures how many actual positives are found. Precision measures how many predicted positives are correct. The other options are unrelated.",
+    "tags": [
+      "AI & ML",
+      "Evaluation",
+      "Medium",
+      "precision",
+      "recall"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "Evaluation",
+      "precision",
+      "recall"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "In a spam classifier, what does high recall mean?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-rag",
+    "title": "RAG Purpose",
+    "domain": "AI & ML",
+    "topic": "LLMs",
+    "difficulty": "Medium",
+    "question": "Why is Retrieval-Augmented Generation used with LLMs?",
+    "options": [
+      "To provide relevant external context before generating an answer",
+      "To delete the model weights",
+      "To avoid using documents",
+      "To guarantee every answer is always correct"
+    ],
+    "correctAnswer": [
+      "To provide relevant external context before generating an answer"
+    ],
+    "explanation": "RAG retrieves useful context and passes it to the model. It does not delete weights, avoid documents, or guarantee correctness.",
+    "tags": [
+      "AI & ML",
+      "LLMs",
+      "Medium",
+      "rag",
+      "llm"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "LLMs",
+      "rag",
+      "llm"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is Retrieval-Augmented Generation used with LLMs?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-embedding",
+    "title": "Embeddings",
+    "domain": "AI & ML",
+    "topic": "Vector Search",
+    "difficulty": "Hard",
+    "question": "What does an embedding represent?",
+    "options": [
+      "Data encoded as a vector capturing semantic similarity",
+      "A database password",
+      "A CPU scheduling quantum",
+      "A TLS certificate"
+    ],
+    "correctAnswer": [
+      "Data encoded as a vector capturing semantic similarity"
+    ],
+    "explanation": "Embeddings place similar items near each other in vector space. They are not passwords, scheduler values, or certificates.",
+    "tags": [
+      "AI & ML",
+      "Vector Search",
+      "Hard",
+      "embeddings",
+      "vector-db"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "Vector Search",
+      "embeddings",
+      "vector-db"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does an embedding represent?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-gradient-descent",
+    "title": "Gradient Descent",
+    "domain": "AI & ML",
+    "topic": "Optimization",
+    "difficulty": "Hard",
+    "question": "What does gradient descent do during model training?",
+    "options": [
+      "Updates parameters in a direction that reduces the loss",
+      "Sorts network packets",
+      "Creates database indexes",
+      "Encrypts source code"
+    ],
+    "correctAnswer": [
+      "Updates parameters in a direction that reduces the loss"
+    ],
+    "explanation": "Gradient descent uses gradients of the loss to update parameters. It is unrelated to packets, indexes, or encryption.",
+    "tags": [
+      "AI & ML",
+      "Optimization",
+      "Hard",
+      "optimization"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "Optimization",
+      "optimization"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does gradient descent do during model training?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-ai-data-leakage",
+    "title": "Data Leakage",
+    "domain": "AI & ML",
+    "topic": "Evaluation",
+    "difficulty": "Hard",
+    "question": "Why is data leakage dangerous?",
+    "options": [
+      "It lets training use information that would not be available in real prediction",
+      "It always improves real-world generalization",
+      "It encrypts the labels",
+      "It removes the need for validation"
+    ],
+    "correctAnswer": [
+      "It lets training use information that would not be available in real prediction"
+    ],
+    "explanation": "Leakage inflates evaluation and fails in production. It does not improve real generalization, encrypt labels, or remove validation needs.",
+    "tags": [
+      "AI & ML",
+      "Evaluation",
+      "Hard",
+      "data-leakage"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "AI & ML",
+      "Evaluation",
+      "data-leakage"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is data leakage dangerous?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

@@ -1,0 +1,705 @@
+[
+  {
+    "id": "hr-question-tell-me-about-yourself-1",
+    "question": "Tell me about yourself",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q1: Tell me about yourself.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-do-you-want-to-work-at-this-company-2",
+    "question": "Why do you want to work at this company?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q2: Why do you want to work at this company?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-where-do-you-see-yourself-in-5-years-3",
+    "question": "Where do you see yourself in 5 years?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q3: Where do you see yourself in 5 years?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-faced-a-difficult-challenge-at-work-4",
+    "question": "Describe a time you faced a difficult challenge at work",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q4: Describe a time you faced a difficult challenge at work.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-handle-conflict-with-a-team-member-5",
+    "question": "How do you handle conflict with a team member?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q5: How do you handle conflict with a team member?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-is-your-greatest-weakness-6",
+    "question": "What is your greatest weakness?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q6: What is your greatest weakness?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-is-your-greatest-strength-7",
+    "question": "What is your greatest strength?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q7: What is your greatest strength?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-should-we-hire-you-8",
+    "question": "Why should we hire you?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q8: Why should we hire you?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-failed-and-what-you-learned-9",
+    "question": "Describe a time you failed and what you learned",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR",
+      "AI/ML"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q9: Describe a time you failed and what you learned.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-prioritize-your-work-under-tight-deadlines-10",
+    "question": "How do you prioritize your work under tight deadlines?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q10: How do you prioritize your work under tight deadlines?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-tell-me-about-a-time-you-showed-leadership-11",
+    "question": "Tell me about a time you showed leadership",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q11: Tell me about a time you showed leadership.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-stay-updated-with-new-technologies-12",
+    "question": "How do you stay updated with new technologies?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q12: How do you stay updated with new technologies?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-are-you-willing-to-relocate-13",
+    "question": "Are you willing to relocate?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q13: Are you willing to relocate?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-are-your-salary-expectations-14",
+    "question": "What are your salary expectations?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q14: What are your salary expectations?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-do-you-have-any-questions-for-us-15",
+    "question": "Do you have any questions for us?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q15: Do you have any questions for us?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-tell-me-about-yourself-16",
+    "question": "Tell me about yourself",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q16: Tell me about yourself.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-do-you-want-to-work-at-this-company-17",
+    "question": "Why do you want to work at this company?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q17: Why do you want to work at this company?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-where-do-you-see-yourself-in-5-years-18",
+    "question": "Where do you see yourself in 5 years?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q18: Where do you see yourself in 5 years?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-faced-a-difficult-challenge-at-work-19",
+    "question": "Describe a time you faced a difficult challenge at work",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q19: Describe a time you faced a difficult challenge at work.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-handle-conflict-with-a-team-member-20",
+    "question": "How do you handle conflict with a team member?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q20: How do you handle conflict with a team member?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-is-your-greatest-weakness-21",
+    "question": "What is your greatest weakness?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q21: What is your greatest weakness?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-is-your-greatest-strength-22",
+    "question": "What is your greatest strength?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q22: What is your greatest strength?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-should-we-hire-you-23",
+    "question": "Why should we hire you?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q23: Why should we hire you?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-failed-and-what-you-learned-24",
+    "question": "Describe a time you failed and what you learned",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR",
+      "AI/ML"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q24: Describe a time you failed and what you learned.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-prioritize-your-work-under-tight-deadlines-25",
+    "question": "How do you prioritize your work under tight deadlines?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q25: How do you prioritize your work under tight deadlines?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-tell-me-about-a-time-you-showed-leadership-26",
+    "question": "Tell me about a time you showed leadership",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q26: Tell me about a time you showed leadership.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-stay-updated-with-new-technologies-27",
+    "question": "How do you stay updated with new technologies?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q27: How do you stay updated with new technologies?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-are-you-willing-to-relocate-28",
+    "question": "Are you willing to relocate?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q28: Are you willing to relocate?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-are-your-salary-expectations-29",
+    "question": "What are your salary expectations?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q29: What are your salary expectations?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-do-you-have-any-questions-for-us-30",
+    "question": "Do you have any questions for us?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q30: Do you have any questions for us?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-tell-me-about-yourself-31",
+    "question": "Tell me about yourself",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q31: Tell me about yourself.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-do-you-want-to-work-at-this-company-32",
+    "question": "Why do you want to work at this company?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q32: Why do you want to work at this company?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-where-do-you-see-yourself-in-5-years-33",
+    "question": "Where do you see yourself in 5 years?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q33: Where do you see yourself in 5 years?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-faced-a-difficult-challenge-at-work-34",
+    "question": "Describe a time you faced a difficult challenge at work",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q34: Describe a time you faced a difficult challenge at work.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-handle-conflict-with-a-team-member-35",
+    "question": "How do you handle conflict with a team member?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q35: How do you handle conflict with a team member?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-is-your-greatest-weakness-36",
+    "question": "What is your greatest weakness?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q36: What is your greatest weakness?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-is-your-greatest-strength-37",
+    "question": "What is your greatest strength?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q37: What is your greatest strength?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-should-we-hire-you-38",
+    "question": "Why should we hire you?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q38: Why should we hire you?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-failed-and-what-you-learned-39",
+    "question": "Describe a time you failed and what you learned",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR",
+      "AI/ML"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q39: Describe a time you failed and what you learned.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-prioritize-your-work-under-tight-deadlines-40",
+    "question": "How do you prioritize your work under tight deadlines?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q40: How do you prioritize your work under tight deadlines?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-tell-me-about-a-time-you-showed-leadership-41",
+    "question": "Tell me about a time you showed leadership",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q41: Tell me about a time you showed leadership.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-stay-updated-with-new-technologies-42",
+    "question": "How do you stay updated with new technologies?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q42: How do you stay updated with new technologies?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-are-you-willing-to-relocate-43",
+    "question": "Are you willing to relocate?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q43: Are you willing to relocate?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-what-are-your-salary-expectations-44",
+    "question": "What are your salary expectations?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q44: What are your salary expectations?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-do-you-have-any-questions-for-us-45",
+    "question": "Do you have any questions for us?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q45: Do you have any questions for us?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-tell-me-about-yourself-46",
+    "question": "Tell me about yourself",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q46: Tell me about yourself.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-why-do-you-want-to-work-at-this-company-47",
+    "question": "Why do you want to work at this company?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q47: Why do you want to work at this company?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-where-do-you-see-yourself-in-5-years-48",
+    "question": "Where do you see yourself in 5 years?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q48: Where do you see yourself in 5 years?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-describe-a-time-you-faced-a-difficult-challenge-at-work-49",
+    "question": "Describe a time you faced a difficult challenge at work",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q49: Describe a time you faced a difficult challenge at work.",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "hr-question-how-do-you-handle-conflict-with-a-team-member-50",
+    "question": "How do you handle conflict with a team member?",
+    "category": "Career Preparation",
+    "type": "HR Question",
+    "difficulty": "HR",
+    "companyTags": [],
+    "topicTags": [
+      "HR"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "HR Q50: How do you handle conflict with a team member?",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  }
+]

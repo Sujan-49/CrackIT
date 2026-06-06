@@ -1,0 +1,290 @@
+[
+  {
+    "id": "pro-sd-load-balancer",
+    "title": "Load Balancer Purpose",
+    "domain": "System Design",
+    "topic": "Scalability",
+    "difficulty": "Easy",
+    "question": "What is a load balancer used for?",
+    "options": [
+      "Distributing incoming traffic across multiple backend instances",
+      "Compiling frontend code",
+      "Encrypting database rows only",
+      "Replacing all caches"
+    ],
+    "correctAnswer": [
+      "Distributing incoming traffic across multiple backend instances"
+    ],
+    "explanation": "Load balancers spread traffic and improve availability. Compilation, row encryption, and caching are separate concerns.",
+    "tags": [
+      "System Design",
+      "Scalability",
+      "Easy",
+      "load-balancer"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Scalability",
+      "load-balancer"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a load balancer used for?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-cache",
+    "title": "Cache Use",
+    "domain": "System Design",
+    "topic": "Caching",
+    "difficulty": "Easy",
+    "question": "Why add a cache in front of a slow data source?",
+    "options": [
+      "To reduce latency and repeated load for frequently accessed data",
+      "To permanently replace the database in all cases",
+      "To make writes impossible",
+      "To remove authentication"
+    ],
+    "correctAnswer": [
+      "To reduce latency and repeated load for frequently accessed data"
+    ],
+    "explanation": "Caches speed repeated reads and reduce backend pressure. They do not always replace databases, block writes, or remove auth.",
+    "tags": [
+      "System Design",
+      "Caching",
+      "Easy",
+      "cache"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Caching",
+      "cache"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why add a cache in front of a slow data source?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-rate-limiter",
+    "title": "Rate Limiter Design",
+    "domain": "System Design",
+    "topic": "Reliability",
+    "difficulty": "Medium",
+    "question": "What is a common goal of rate limiting in system design?",
+    "options": [
+      "Protect services from abuse or overload",
+      "Increase duplicate requests",
+      "Disable monitoring",
+      "Make all users admins"
+    ],
+    "correctAnswer": [
+      "Protect services from abuse or overload"
+    ],
+    "explanation": "Rate limiting controls request volume to preserve reliability and fairness. The other choices are harmful or unrelated.",
+    "tags": [
+      "System Design",
+      "Reliability",
+      "Medium",
+      "rate-limiter"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Reliability",
+      "rate-limiter"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a common goal of rate limiting in system design?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-consistent-hashing",
+    "title": "Consistent Hashing",
+    "domain": "System Design",
+    "topic": "Distributed Systems",
+    "difficulty": "Medium",
+    "question": "Why is consistent hashing useful in distributed caches?",
+    "options": [
+      "It reduces key movement when nodes join or leave",
+      "It removes the need for hashing",
+      "It guarantees no server failures",
+      "It encrypts all cache values"
+    ],
+    "correctAnswer": [
+      "It reduces key movement when nodes join or leave"
+    ],
+    "explanation": "Consistent hashing maps keys to a ring so membership changes move fewer keys. It still hashes, does not prevent failures, and does not imply encryption.",
+    "tags": [
+      "System Design",
+      "Distributed Systems",
+      "Medium",
+      "consistent-hashing"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Distributed Systems",
+      "consistent-hashing"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is consistent hashing useful in distributed caches?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-message-queue",
+    "title": "Message Queue Benefit",
+    "domain": "System Design",
+    "topic": "Async Systems",
+    "difficulty": "Medium",
+    "question": "Why use a message queue between services?",
+    "options": [
+      "To decouple producers and consumers and smooth traffic spikes",
+      "To force synchronous blocking only",
+      "To delete failed jobs silently",
+      "To replace all databases"
+    ],
+    "correctAnswer": [
+      "To decouple producers and consumers and smooth traffic spikes"
+    ],
+    "explanation": "Queues buffer work and decouple services. They do not force blocking, should not silently delete failures, and do not replace every database.",
+    "tags": [
+      "System Design",
+      "Async Systems",
+      "Medium",
+      "queue",
+      "async"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Async Systems",
+      "queue",
+      "async"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why use a message queue between services?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-idempotency",
+    "title": "Idempotency",
+    "domain": "System Design",
+    "topic": "APIs",
+    "difficulty": "Hard",
+    "question": "Why are idempotency keys useful in payment APIs?",
+    "options": [
+      "They prevent duplicate processing when clients retry requests",
+      "They make payments anonymous automatically",
+      "They remove the need for TLS",
+      "They compress JSON bodies"
+    ],
+    "correctAnswer": [
+      "They prevent duplicate processing when clients retry requests"
+    ],
+    "explanation": "Idempotency keys let the server recognize retries and return the same result. They do not anonymize, replace TLS, or compress data.",
+    "tags": [
+      "System Design",
+      "APIs",
+      "Hard",
+      "api",
+      "payments"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "APIs",
+      "api",
+      "payments"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why are idempotency keys useful in payment APIs?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-sharding",
+    "title": "Database Sharding",
+    "domain": "System Design",
+    "topic": "Scalability",
+    "difficulty": "Hard",
+    "question": "What is database sharding?",
+    "options": [
+      "Splitting data across multiple database nodes by a shard key",
+      "Creating only read replicas",
+      "Encrypting every column",
+      "Removing indexes"
+    ],
+    "correctAnswer": [
+      "Splitting data across multiple database nodes by a shard key"
+    ],
+    "explanation": "Sharding partitions data horizontally. Read replicas copy data, encryption secures data, and indexes are separate.",
+    "tags": [
+      "System Design",
+      "Scalability",
+      "Hard",
+      "database",
+      "sharding"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Scalability",
+      "database",
+      "sharding"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is database sharding?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sd-backpressure",
+    "title": "Backpressure",
+    "domain": "System Design",
+    "topic": "Reliability",
+    "difficulty": "Hard",
+    "question": "What does backpressure do in a distributed system?",
+    "options": [
+      "Signals upstream producers to slow down when downstream cannot keep up",
+      "Forces downstream to accept infinite load",
+      "Deletes monitoring data",
+      "Disables retries forever"
+    ],
+    "correctAnswer": [
+      "Signals upstream producers to slow down when downstream cannot keep up"
+    ],
+    "explanation": "Backpressure prevents overload by slowing producers. It does not force infinite load, delete monitoring, or forbid retries permanently.",
+    "tags": [
+      "System Design",
+      "Reliability",
+      "Hard",
+      "backpressure",
+      "reliability"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "System Design",
+      "Reliability",
+      "backpressure",
+      "reliability"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does backpressure do in a distributed system?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

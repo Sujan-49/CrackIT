@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pro-dsa-array-prefix-sum",
+    "title": "Prefix Sum Range Query",
+    "domain": "DSA",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "You need to answer many range-sum queries on a static integer array. Which preprocessing technique gives O(1) query time after O(n) preprocessing?",
+    "options": [
+      "Sorting the array",
+      "Prefix sum array",
+      "Binary search tree",
+      "Two-pointer scan for every query"
+    ],
+    "correctAnswer": [
+      "Prefix sum array"
+    ],
+    "explanation": "A prefix sum array stores cumulative sums, so range sum l..r is prefix[r] - prefix[l - 1]. Sorting destroys original positions, a BST helps ordered lookup not range sums by index, and scanning each query is O(n).",
+    "tags": [
+      "DSA",
+      "Arrays",
+      "Easy",
+      "arrays",
+      "prefix-sum",
+      "range-query"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Arrays",
+      "arrays",
+      "prefix-sum",
+      "range-query"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "You need to answer many range-sum queries on a static integer array. Which preprocessing technique gives O(1) query time after O(n) preprocessing?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-stack-next-greater",
+    "title": "Next Greater Element Structure",
+    "domain": "DSA",
+    "topic": "Stacks",
+    "difficulty": "Easy",
+    "question": "Which data structure is commonly used to solve Next Greater Element in O(n) time?",
+    "options": [
+      "Queue",
+      "Monotonic stack",
+      "Trie",
+      "Disjoint set"
+    ],
+    "correctAnswer": [
+      "Monotonic stack"
+    ],
+    "explanation": "A monotonic stack keeps unresolved elements in decreasing order and resolves them when a greater element appears. A queue does not maintain the needed ordering, a trie is for prefixes, and DSU is for connectivity.",
+    "tags": [
+      "DSA",
+      "Stacks",
+      "Easy",
+      "stack",
+      "monotonic-stack"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Stacks",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which data structure is commonly used to solve Next Greater Element in O(n) time?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-hash-two-sum",
+    "title": "Two Sum Lookup",
+    "domain": "DSA",
+    "topic": "Hashing",
+    "difficulty": "Easy",
+    "question": "In the standard Two Sum problem, why is a hash map used?",
+    "options": [
+      "To sort values automatically",
+      "To store complements and find matches in O(1) average time",
+      "To reduce memory to O(1)",
+      "To convert the problem into recursion"
+    ],
+    "correctAnswer": [
+      "To store complements and find matches in O(1) average time"
+    ],
+    "explanation": "A hash map stores previously seen values or complements for constant-average lookup. It does not sort, it uses O(n) memory, and recursion is unrelated to the optimal lookup pattern.",
+    "tags": [
+      "DSA",
+      "Hashing",
+      "Easy",
+      "hashing",
+      "arrays"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Hashing",
+      "hashing",
+      "arrays"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "In the standard Two Sum problem, why is a hash map used?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-bfs-shortest-path",
+    "title": "BFS Shortest Path",
+    "domain": "DSA",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Why does BFS find the shortest path in an unweighted graph?",
+    "options": [
+      "It always chooses the smallest edge weight",
+      "It explores nodes level by level from the source",
+      "It uses recursion stack depth",
+      "It sorts adjacency lists"
+    ],
+    "correctAnswer": [
+      "It explores nodes level by level from the source"
+    ],
+    "explanation": "In an unweighted graph, each BFS level represents one more edge from the source, so first visit gives shortest distance. It does not use edge weights, recursion depth is DFS-like, and sorted adjacency is not required.",
+    "tags": [
+      "DSA",
+      "Graphs",
+      "Medium",
+      "graphs",
+      "bfs",
+      "shortest-path"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Graphs",
+      "graphs",
+      "bfs",
+      "shortest-path"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why does BFS find the shortest path in an unweighted graph?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-dp-overlapping",
+    "title": "Dynamic Programming Signal",
+    "domain": "DSA",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which pair of properties usually indicates that dynamic programming may be useful?",
+    "options": [
+      "Sorted input and binary answer",
+      "Overlapping subproblems and optimal substructure",
+      "Prime numbers and bitwise XOR",
+      "Only constant memory and no choices"
+    ],
+    "correctAnswer": [
+      "Overlapping subproblems and optimal substructure"
+    ],
+    "explanation": "DP fits when subproblems repeat and optimal answers compose from smaller optimal answers. Sorted input hints binary search/two pointers, XOR hints bit tricks, and constant memory is an optimization not the reason for DP.",
+    "tags": [
+      "DSA",
+      "Dynamic Programming",
+      "Medium",
+      "dp",
+      "patterns"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming",
+      "dp",
+      "patterns"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which pair of properties usually indicates that dynamic programming may be useful?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-union-find",
+    "title": "Union-Find Use Case",
+    "domain": "DSA",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which problem is best suited for Disjoint Set Union?",
+    "options": [
+      "Detecting connected components while merging edges",
+      "Finding substring palindromes",
+      "Evaluating arithmetic expressions",
+      "Maintaining LRU order"
+    ],
+    "correctAnswer": [
+      "Detecting connected components while merging edges"
+    ],
+    "explanation": "DSU efficiently supports union and find operations for dynamic connectivity. Palindromes need string/DP methods, expressions need stacks/parsing, and LRU needs a hash map plus linked list.",
+    "tags": [
+      "DSA",
+      "Graphs",
+      "Medium",
+      "graphs",
+      "dsu"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Graphs",
+      "graphs",
+      "dsu"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which problem is best suited for Disjoint Set Union?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-lru-cache",
+    "title": "LRU Cache Design",
+    "domain": "DSA",
+    "topic": "Design",
+    "difficulty": "Hard",
+    "question": "What data structures are typically combined to implement an O(1) LRU cache?",
+    "options": [
+      "Array and heap",
+      "Hash map and doubly linked list",
+      "Queue and trie",
+      "Stack and binary search"
+    ],
+    "correctAnswer": [
+      "Hash map and doubly linked list"
+    ],
+    "explanation": "The hash map gives O(1) key lookup and the doubly linked list supports O(1) move-to-front and eviction from the tail. The other combinations do not support both lookup and recency updates in O(1).",
+    "tags": [
+      "DSA",
+      "Design",
+      "Hard",
+      "design",
+      "cache"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Design",
+      "design",
+      "cache"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What data structures are typically combined to implement an O(1) LRU cache?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-dsa-dijkstra-negative",
+    "title": "Dijkstra Limitation",
+    "domain": "DSA",
+    "topic": "Graphs",
+    "difficulty": "Hard",
+    "question": "Why is Dijkstra's algorithm unsafe on graphs with negative edge weights?",
+    "options": [
+      "It cannot use priority queues",
+      "A node marked final may later receive a shorter path through a negative edge",
+      "It only works on trees",
+      "It requires all edges to have weight one"
+    ],
+    "correctAnswer": [
+      "A node marked final may later receive a shorter path through a negative edge"
+    ],
+    "explanation": "Dijkstra assumes once the smallest tentative distance is extracted, it is final. Negative edges can violate that assumption. Priority queues are allowed, it works on general graphs, and unit weights are specifically the BFS case.",
+    "tags": [
+      "DSA",
+      "Graphs",
+      "Hard",
+      "graphs",
+      "dijkstra"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "DSA",
+      "Graphs",
+      "graphs",
+      "dijkstra"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is Dijkstra's algorithm unsafe on graphs with negative edge weights?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

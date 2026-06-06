@@ -1,0 +1,288 @@
+[
+  {
+    "id": "pro-sec-cia",
+    "title": "CIA Triad",
+    "domain": "Cyber Security",
+    "topic": "Security Basics",
+    "difficulty": "Easy",
+    "question": "What does the CIA triad stand for?",
+    "options": [
+      "Confidentiality, Integrity, Availability",
+      "Code, Interface, API",
+      "Cache, Index, Array",
+      "Compile, Install, Authenticate"
+    ],
+    "correctAnswer": [
+      "Confidentiality, Integrity, Availability"
+    ],
+    "explanation": "CIA is the core model for protecting secrecy, correctness, and access. The other options are unrelated acronyms.",
+    "tags": [
+      "Cyber Security",
+      "Security Basics",
+      "Easy",
+      "cia"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Security Basics",
+      "cia"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does the CIA triad stand for?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-sql-injection",
+    "title": "SQL Injection Defense",
+    "domain": "Cyber Security",
+    "topic": "Web Security",
+    "difficulty": "Easy",
+    "question": "What is the primary defense against SQL injection?",
+    "options": [
+      "Parameterized queries",
+      "String concatenation",
+      "Hiding the login button",
+      "Using more CSS"
+    ],
+    "correctAnswer": [
+      "Parameterized queries"
+    ],
+    "explanation": "Parameterized queries separate SQL code from user data. Concatenation causes injection risk, and UI/CSS changes do not secure queries.",
+    "tags": [
+      "Cyber Security",
+      "Web Security",
+      "Easy",
+      "sql-injection",
+      "owasp"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Web Security",
+      "sql-injection",
+      "owasp"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the primary defense against SQL injection?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-xss",
+    "title": "XSS Impact",
+    "domain": "Cyber Security",
+    "topic": "Web Security",
+    "difficulty": "Medium",
+    "question": "What can stored XSS allow an attacker to do?",
+    "options": [
+      "Run malicious JavaScript in victims' browsers when they view stored content",
+      "Change CPU voltage",
+      "Create database indexes automatically",
+      "Reduce image size"
+    ],
+    "correctAnswer": [
+      "Run malicious JavaScript in victims' browsers when they view stored content"
+    ],
+    "explanation": "Stored XSS persists malicious script in content viewed by users. It is not CPU tuning, indexing, or compression.",
+    "tags": [
+      "Cyber Security",
+      "Web Security",
+      "Medium",
+      "xss"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Web Security",
+      "xss"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What can stored XSS allow an attacker to do?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-hashing-salting",
+    "title": "Password Hashing",
+    "domain": "Cyber Security",
+    "topic": "Authentication",
+    "difficulty": "Medium",
+    "question": "Why should password hashes use a unique salt?",
+    "options": [
+      "To make identical passwords produce different hashes and resist precomputed attacks",
+      "To make passwords reversible",
+      "To reduce password length",
+      "To disable authentication"
+    ],
+    "correctAnswer": [
+      "To make identical passwords produce different hashes and resist precomputed attacks"
+    ],
+    "explanation": "A salt prevents equal passwords from sharing hashes and weakens rainbow-table attacks. It does not make hashes reversible or disable auth.",
+    "tags": [
+      "Cyber Security",
+      "Authentication",
+      "Medium",
+      "hashing",
+      "passwords"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Authentication",
+      "hashing",
+      "passwords"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why should password hashes use a unique salt?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-csrf",
+    "title": "CSRF",
+    "domain": "Cyber Security",
+    "topic": "Web Security",
+    "difficulty": "Medium",
+    "question": "What does CSRF exploit?",
+    "options": [
+      "A browser automatically including credentials on unintended cross-site requests",
+      "A compiler optimization bug",
+      "DNS record expiration",
+      "A missing database index"
+    ],
+    "correctAnswer": [
+      "A browser automatically including credentials on unintended cross-site requests"
+    ],
+    "explanation": "CSRF abuses authenticated browser state to submit unwanted actions. It is unrelated to compilers, DNS TTL, or indexes.",
+    "tags": [
+      "Cyber Security",
+      "Web Security",
+      "Medium",
+      "csrf"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Web Security",
+      "csrf"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does CSRF exploit?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-ssrf",
+    "title": "SSRF",
+    "domain": "Cyber Security",
+    "topic": "Web Security",
+    "difficulty": "Hard",
+    "question": "What is Server-Side Request Forgery?",
+    "options": [
+      "Tricking a server into making requests to unintended internal or external resources",
+      "Forging a CSS selector",
+      "Replacing TCP with UDP",
+      "Creating a local Git branch"
+    ],
+    "correctAnswer": [
+      "Tricking a server into making requests to unintended internal or external resources"
+    ],
+    "explanation": "SSRF abuses server-side network access. It is not CSS, transport replacement, or Git branching.",
+    "tags": [
+      "Cyber Security",
+      "Web Security",
+      "Hard",
+      "ssrf"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Web Security",
+      "ssrf"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is Server-Side Request Forgery?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-zero-trust",
+    "title": "Zero Trust",
+    "domain": "Cyber Security",
+    "topic": "Security Architecture",
+    "difficulty": "Hard",
+    "question": "Which principle best describes zero trust?",
+    "options": [
+      "Never trust by default; continuously verify identity, device, and context",
+      "Trust every internal network device",
+      "Remove all logging",
+      "Use one shared administrator account"
+    ],
+    "correctAnswer": [
+      "Never trust by default; continuously verify identity, device, and context"
+    ],
+    "explanation": "Zero trust assumes no implicit trust and verifies continuously. Trusting internal networks, removing logs, or sharing admin accounts contradicts it.",
+    "tags": [
+      "Cyber Security",
+      "Security Architecture",
+      "Hard",
+      "zero-trust"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "Security Architecture",
+      "zero-trust"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which principle best describes zero trust?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-sec-rate-limiting",
+    "title": "Rate Limiting",
+    "domain": "Cyber Security",
+    "topic": "API Security",
+    "difficulty": "Hard",
+    "question": "Why is rate limiting important for authentication endpoints?",
+    "options": [
+      "It reduces brute-force and credential-stuffing attempts",
+      "It improves CSS rendering",
+      "It guarantees password strength",
+      "It replaces hashing"
+    ],
+    "correctAnswer": [
+      "It reduces brute-force and credential-stuffing attempts"
+    ],
+    "explanation": "Rate limits slow repeated login attempts. They do not affect CSS, guarantee strong passwords, or replace password hashing.",
+    "tags": [
+      "Cyber Security",
+      "API Security",
+      "Hard",
+      "rate-limiting",
+      "auth"
+    ],
+    "category": "Modern Technologies",
+    "type": "MCQ",
+    "topicTags": [
+      "Cyber Security",
+      "API Security",
+      "rate-limiting",
+      "auth"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is rate limiting important for authentication endpoints?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

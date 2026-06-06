@@ -1,0 +1,891 @@
+[
+  {
+    "id": "dsa-easy-two-sum-1",
+    "question": "Two Sum",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Two Sum (Asked in: Amazon, TCS, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-valid-parentheses-2",
+    "question": "Valid Parentheses",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Valid Parentheses (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-merge-two-sorted-lists-3",
+    "question": "Merge Two Sorted Lists",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Microsoft",
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Merge Two Sorted Lists (Asked in: Microsoft, Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-best-time-to-buy-and-sell-stock-4",
+    "question": "Best Time to Buy and Sell Stock",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Best Time to Buy and Sell Stock (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-valid-palindrome-5",
+    "question": "Valid Palindrome",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Valid Palindrome (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-invert-binary-tree-6",
+    "question": "Invert Binary Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Invert Binary Tree (Asked in: Google, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-maximum-subarray-7",
+    "question": "Maximum Subarray",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "LinkedIn",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Maximum Subarray (Asked in: LinkedIn, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-binary-search-8",
+    "question": "Binary Search",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Binary Search (Asked in: Apple, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-reverse-linked-list-9",
+    "question": "Reverse Linked List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Reverse Linked List (Asked in: Amazon, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-find-the-duplicate-number-10",
+    "question": "Find the Duplicate Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Microsoft",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Find the Duplicate Number (Asked in: Microsoft, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-climbing-stairs-11",
+    "question": "Climbing Stairs",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Climbing Stairs (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-symmetric-tree-12",
+    "question": "Symmetric Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Microsoft",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Symmetric Tree (Asked in: Microsoft, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-missing-number-13",
+    "question": "Missing Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Missing Number (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-contains-duplicate-14",
+    "question": "Contains Duplicate",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Contains Duplicate (Asked in: Google, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-intersection-of-two-linked-lists-15",
+    "question": "Intersection of Two Linked Lists",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Airbnb",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Intersection of Two Linked Lists (Asked in: Airbnb, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-remove-duplicates-from-sorted-array-16",
+    "question": "Remove Duplicates from Sorted Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Remove Duplicates from Sorted Array (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-power-of-two-17",
+    "question": "Power of Two",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Bit Manipulation"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Power of Two (Asked in: Google, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-linked-list-cycle-18",
+    "question": "Linked List Cycle",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Linked List Cycle (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-first-bad-version-19",
+    "question": "First Bad Version",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] First Bad Version (Asked in: Facebook, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-move-zeroes-20",
+    "question": "Move Zeroes",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Bloomberg",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Move Zeroes (Asked in: Bloomberg, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-pascal-s-triangle-21",
+    "question": "Pascal's Triangle",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Pascal's Triangle (Asked in: Apple, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-majority-element-22",
+    "question": "Majority Element",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Majority Element (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-diameter-of-binary-tree-23",
+    "question": "Diameter of Binary Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Diameter of Binary Tree (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-middle-of-the-linked-list-24",
+    "question": "Middle of the Linked List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Middle of the Linked List (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-palindrome-linked-list-25",
+    "question": "Palindrome Linked List",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Palindrome Linked List (Asked in: Amazon, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-reverse-string-26",
+    "question": "Reverse String",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Reverse String (Asked in: Apple, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-roman-to-integer-27",
+    "question": "Roman to Integer",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Roman to Integer (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-longest-common-prefix-28",
+    "question": "Longest Common Prefix",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Longest Common Prefix (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-valid-anagram-29",
+    "question": "Valid Anagram",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Uber",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Valid Anagram (Asked in: Uber, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-plus-one-30",
+    "question": "Plus One",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Plus One (Asked in: Google, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-sqrt-x-31",
+    "question": "Sqrt(x)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Sqrt(x) (Asked in: Apple, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-find-all-numbers-disappeared-in-an-array-32",
+    "question": "Find All Numbers Disappeared in an Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Find All Numbers Disappeared in an Array (Asked in: Google, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-single-number-33",
+    "question": "Single Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Bit Manipulation"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Single Number (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-intersection-of-two-arrays-34",
+    "question": "Intersection of Two Arrays",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Intersection of Two Arrays (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-happy-number-35",
+    "question": "Happy Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Twitter",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Happy Number (Asked in: Twitter, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-is-subsequence-36",
+    "question": "Is Subsequence",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Pinterest",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Is Subsequence (Asked in: Pinterest, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-min-stack-37",
+    "question": "Min Stack",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Stacks"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Min Stack (Asked in: Amazon, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-path-sum-38",
+    "question": "Path Sum",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Microsoft",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Path Sum (Asked in: Microsoft, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-search-insert-position-39",
+    "question": "Search Insert Position",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Networking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Search Insert Position (Asked in: Apple, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-convert-sorted-array-to-binary-search-tree-40",
+    "question": "Convert Sorted Array to Binary Search Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Convert Sorted Array to Binary Search Tree (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-same-tree-41",
+    "question": "Same Tree",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Same Tree (Asked in: Google, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-merge-sorted-array-42",
+    "question": "Merge Sorted Array",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Merge Sorted Array (Asked in: Facebook, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-length-of-last-word-43",
+    "question": "Length of Last Word",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Length of Last Word (Asked in: Apple, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-add-binary-44",
+    "question": "Add Binary",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Meta",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA",
+      "Trees"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Add Binary (Asked in: Facebook, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-remove-element-45",
+    "question": "Remove Element",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Remove Element (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-find-the-index-of-the-first-occurrence-in-a-string-46",
+    "question": "Find the Index of the First Occurrence in a String",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Find the Index of the First Occurrence in a String (Asked in: Microsoft, Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-ugly-number-47",
+    "question": "Ugly Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Google",
+      "Accenture"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Ugly Number (Asked in: Google, Accenture)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-word-pattern-48",
+    "question": "Word Pattern",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Dropbox",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Word Pattern (Asked in: Dropbox, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-ransom-note-49",
+    "question": "Ransom Note",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Apple",
+      "Infosys"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Ransom Note (Asked in: Apple, Infosys)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-easy-fibonacci-number-50",
+    "question": "Fibonacci Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Easy",
+    "companyTags": [
+      "Amazon",
+      "TCS"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Easy] Fibonacci Number (Asked in: Amazon, TCS)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  }
+]

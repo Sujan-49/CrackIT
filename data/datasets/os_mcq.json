@@ -1,0 +1,296 @@
+[
+  {
+    "id": "pro-os-process-thread",
+    "title": "Process vs Thread",
+    "domain": "Operating Systems",
+    "topic": "Processes and Threads",
+    "difficulty": "Easy",
+    "question": "What is the key difference between a process and a thread?",
+    "options": [
+      "Threads have separate address spaces by default",
+      "Processes are independent execution units; threads share the process address space",
+      "Processes cannot run concurrently",
+      "Threads always run on different CPUs"
+    ],
+    "correctAnswer": [
+      "Processes are independent execution units; threads share the process address space"
+    ],
+    "explanation": "A process has its own address space and resources, while threads within a process share memory. Threads do not have separate address spaces by default, both can run concurrently, and CPU placement is scheduler-dependent.",
+    "tags": [
+      "Operating Systems",
+      "Processes and Threads",
+      "Easy",
+      "process",
+      "thread"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Processes and Threads",
+      "process",
+      "thread"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the key difference between a process and a thread?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-context-switch",
+    "title": "Context Switch Cost",
+    "domain": "Operating Systems",
+    "topic": "Scheduling",
+    "difficulty": "Easy",
+    "question": "Why is a context switch considered overhead?",
+    "options": [
+      "It executes user business logic",
+      "The CPU saves and restores execution state instead of doing useful process work",
+      "It permanently deletes process memory",
+      "It disables interrupts forever"
+    ],
+    "correctAnswer": [
+      "The CPU saves and restores execution state instead of doing useful process work"
+    ],
+    "explanation": "Context switching saves registers/state and loads another task's state, which consumes CPU time. It is not application logic, does not delete memory, and does not disable interrupts forever.",
+    "tags": [
+      "Operating Systems",
+      "Scheduling",
+      "Easy",
+      "scheduling",
+      "context-switch"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Scheduling",
+      "scheduling",
+      "context-switch"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is a context switch considered overhead?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-deadlock-coffman",
+    "title": "Deadlock Conditions",
+    "domain": "Operating Systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which set correctly names the Coffman deadlock conditions?",
+    "options": [
+      "Mutual exclusion, hold and wait, no preemption, circular wait",
+      "Paging, segmentation, swapping, thrashing",
+      "Fork, exec, wait, exit",
+      "Read, write, execute, delete"
+    ],
+    "correctAnswer": [
+      "Mutual exclusion, hold and wait, no preemption, circular wait"
+    ],
+    "explanation": "All four Coffman conditions must hold for deadlock. The other choices are memory management, process system calls, or file permissions rather than deadlock conditions.",
+    "tags": [
+      "Operating Systems",
+      "Deadlocks",
+      "Medium",
+      "deadlock"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Deadlocks",
+      "deadlock"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which set correctly names the Coffman deadlock conditions?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-semaphore-mutex",
+    "title": "Semaphore vs Mutex",
+    "domain": "Operating Systems",
+    "topic": "Synchronization",
+    "difficulty": "Medium",
+    "question": "When is a counting semaphore more appropriate than a mutex?",
+    "options": [
+      "When multiple identical resource units must be controlled",
+      "When only one owner may unlock a critical section",
+      "When no synchronization is needed",
+      "When replacing virtual memory"
+    ],
+    "correctAnswer": [
+      "When multiple identical resource units must be controlled"
+    ],
+    "explanation": "A counting semaphore tracks available resource permits. A mutex is for exclusive ownership of one critical section, no synchronization needs neither, and virtual memory is unrelated.",
+    "tags": [
+      "Operating Systems",
+      "Synchronization",
+      "Medium",
+      "semaphore",
+      "mutex"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Synchronization",
+      "semaphore",
+      "mutex"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "When is a counting semaphore more appropriate than a mutex?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-page-fault",
+    "title": "Page Fault Meaning",
+    "domain": "Operating Systems",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "What happens during a page fault?",
+    "options": [
+      "The CPU detects a syntax error",
+      "The referenced virtual page is not currently in physical memory and the OS must handle it",
+      "The process always terminates immediately",
+      "DNS lookup fails"
+    ],
+    "correctAnswer": [
+      "The referenced virtual page is not currently in physical memory and the OS must handle it"
+    ],
+    "explanation": "A page fault traps into the OS so the needed page can be loaded or access can be rejected. It is not a syntax error or DNS issue, and it does not always terminate the process.",
+    "tags": [
+      "Operating Systems",
+      "Memory Management",
+      "Medium",
+      "paging",
+      "virtual-memory"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Memory Management",
+      "paging",
+      "virtual-memory"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What happens during a page fault?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-thrashing",
+    "title": "Thrashing",
+    "domain": "Operating Systems",
+    "topic": "Memory Management",
+    "difficulty": "Hard",
+    "question": "What is thrashing in an operating system?",
+    "options": [
+      "Excessive time spent paging instead of executing useful work",
+      "A faster CPU cache hit rate",
+      "A deadlock-free scheduling policy",
+      "A network congestion control algorithm"
+    ],
+    "correctAnswer": [
+      "Excessive time spent paging instead of executing useful work"
+    ],
+    "explanation": "Thrashing occurs when memory pressure causes constant page swaps, so progress collapses. It is not cache improvement, scheduling policy, or networking control.",
+    "tags": [
+      "Operating Systems",
+      "Memory Management",
+      "Hard",
+      "paging",
+      "performance"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Memory Management",
+      "paging",
+      "performance"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is thrashing in an operating system?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-priority-inversion",
+    "title": "Priority Inversion",
+    "domain": "Operating Systems",
+    "topic": "Scheduling",
+    "difficulty": "Hard",
+    "question": "What problem does priority inheritance solve?",
+    "options": [
+      "Low-priority task holding a resource needed by a high-priority task",
+      "Disk fragmentation",
+      "SQL injection",
+      "DNS caching"
+    ],
+    "correctAnswer": [
+      "Low-priority task holding a resource needed by a high-priority task"
+    ],
+    "explanation": "Priority inheritance temporarily boosts the resource holder so it can release the lock. The other options are storage, security, and networking issues.",
+    "tags": [
+      "Operating Systems",
+      "Scheduling",
+      "Hard",
+      "scheduling",
+      "priority-inversion"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Scheduling",
+      "scheduling",
+      "priority-inversion"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What problem does priority inheritance solve?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-os-copy-on-write",
+    "title": "Copy-on-Write Fork",
+    "domain": "Operating Systems",
+    "topic": "Memory Management",
+    "difficulty": "Hard",
+    "question": "Why do many Unix-like systems use copy-on-write after fork?",
+    "options": [
+      "To copy every memory page immediately",
+      "To defer physical copying until a shared page is modified",
+      "To prevent child processes from running",
+      "To encrypt virtual memory"
+    ],
+    "correctAnswer": [
+      "To defer physical copying until a shared page is modified"
+    ],
+    "explanation": "Copy-on-write lets parent and child share pages until one writes, reducing fork cost. It avoids immediate copying, does not stop child execution, and is not encryption.",
+    "tags": [
+      "Operating Systems",
+      "Memory Management",
+      "Hard",
+      "fork",
+      "memory"
+    ],
+    "category": "Engineering Fundamentals",
+    "type": "MCQ",
+    "topicTags": [
+      "Operating Systems",
+      "Memory Management",
+      "fork",
+      "memory"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why do many Unix-like systems use copy-on-write after fork?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

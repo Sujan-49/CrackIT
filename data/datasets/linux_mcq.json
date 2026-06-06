@@ -1,0 +1,290 @@
+[
+  {
+    "id": "pro-linux-pwd",
+    "title": "Current Directory Command",
+    "domain": "Linux",
+    "topic": "Filesystem",
+    "difficulty": "Easy",
+    "question": "Which Linux command prints the current working directory?",
+    "options": [
+      "pwd",
+      "ls",
+      "cd",
+      "mkdir"
+    ],
+    "correctAnswer": [
+      "pwd"
+    ],
+    "explanation": "pwd prints the absolute path of the current directory. ls lists contents, cd changes directory, and mkdir creates directories.",
+    "tags": [
+      "Linux",
+      "Filesystem",
+      "Easy",
+      "commands"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Filesystem",
+      "commands"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which Linux command prints the current working directory?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-grep",
+    "title": "Text Search Command",
+    "domain": "Linux",
+    "topic": "Text Processing",
+    "difficulty": "Easy",
+    "question": "Which command is best for searching lines that match a pattern in files?",
+    "options": [
+      "grep",
+      "chmod",
+      "touch",
+      "kill"
+    ],
+    "correctAnswer": [
+      "grep"
+    ],
+    "explanation": "grep searches text using patterns. chmod changes permissions, touch creates/updates files, and kill sends signals.",
+    "tags": [
+      "Linux",
+      "Text Processing",
+      "Easy",
+      "grep",
+      "commands"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Text Processing",
+      "grep",
+      "commands"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which command is best for searching lines that match a pattern in files?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-permissions",
+    "title": "chmod 755",
+    "domain": "Linux",
+    "topic": "Permissions",
+    "difficulty": "Medium",
+    "question": "What does chmod 755 file typically mean?",
+    "options": [
+      "Owner can read/write/execute; group and others can read/execute",
+      "Everyone can write only",
+      "Owner has no permissions",
+      "Only root can read"
+    ],
+    "correctAnswer": [
+      "Owner can read/write/execute; group and others can read/execute"
+    ],
+    "explanation": "755 means rwx for owner and r-x for group/others. It does not grant everyone write, remove owner permissions, or imply root-only access.",
+    "tags": [
+      "Linux",
+      "Permissions",
+      "Medium",
+      "chmod",
+      "permissions"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Permissions",
+      "chmod",
+      "permissions"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does chmod 755 file typically mean?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-pipe",
+    "title": "Pipe Operator",
+    "domain": "Linux",
+    "topic": "Shell",
+    "difficulty": "Medium",
+    "question": "What does the pipe operator do in a shell command?",
+    "options": [
+      "Passes stdout of one command as stdin to another",
+      "Deletes both commands",
+      "Runs only if previous command fails",
+      "Changes file ownership"
+    ],
+    "correctAnswer": [
+      "Passes stdout of one command as stdin to another"
+    ],
+    "explanation": "A pipe connects command output to another command's input. It does not delete commands, failure logic is handled by ||, and chown changes ownership.",
+    "tags": [
+      "Linux",
+      "Shell",
+      "Medium",
+      "shell",
+      "pipes"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Shell",
+      "shell",
+      "pipes"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does the pipe operator do in a shell command?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-cron",
+    "title": "Cron Use",
+    "domain": "Linux",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "What is cron used for?",
+    "options": [
+      "Scheduling recurring commands",
+      "Compiling the kernel only",
+      "Encrypting passwords",
+      "Showing open ports only"
+    ],
+    "correctAnswer": [
+      "Scheduling recurring commands"
+    ],
+    "explanation": "cron runs commands on a time schedule. It is not only for kernel compilation, password encryption, or port listing.",
+    "tags": [
+      "Linux",
+      "Scheduling",
+      "Medium",
+      "cron"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Scheduling",
+      "cron"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is cron used for?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-systemd",
+    "title": "systemd Service",
+    "domain": "Linux",
+    "topic": "Services",
+    "difficulty": "Hard",
+    "question": "What is a systemd unit file used for?",
+    "options": [
+      "Defining how services, sockets, timers, or other units are managed",
+      "Storing browser cookies",
+      "Creating SQL tables",
+      "Compressing images"
+    ],
+    "correctAnswer": [
+      "Defining how services, sockets, timers, or other units are managed"
+    ],
+    "explanation": "systemd unit files describe managed resources and dependencies. They do not store cookies, define SQL schema, or compress images.",
+    "tags": [
+      "Linux",
+      "Services",
+      "Hard",
+      "systemd"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Services",
+      "systemd"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a systemd unit file used for?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-sed-awk",
+    "title": "sed vs awk",
+    "domain": "Linux",
+    "topic": "Text Processing",
+    "difficulty": "Hard",
+    "question": "Which statement best separates sed and awk?",
+    "options": [
+      "sed is stream editing; awk is stronger for field-based processing and reports",
+      "awk only changes permissions",
+      "sed only manages processes",
+      "Both are package managers"
+    ],
+    "correctAnswer": [
+      "sed is stream editing; awk is stronger for field-based processing and reports"
+    ],
+    "explanation": "sed edits streams line-by-line; awk provides fields, patterns, and actions for structured text. Neither is chmod, process manager, or package manager.",
+    "tags": [
+      "Linux",
+      "Text Processing",
+      "Hard",
+      "sed",
+      "awk"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Text Processing",
+      "sed",
+      "awk"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which statement best separates sed and awk?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-linux-load-average",
+    "title": "Load Average",
+    "domain": "Linux",
+    "topic": "Performance",
+    "difficulty": "Hard",
+    "question": "What does Linux load average roughly represent?",
+    "options": [
+      "Average number of runnable or uninterruptible tasks over time",
+      "Only CPU temperature",
+      "Total disk capacity",
+      "Number of installed packages"
+    ],
+    "correctAnswer": [
+      "Average number of runnable or uninterruptible tasks over time"
+    ],
+    "explanation": "Load average tracks runnable and uninterruptible tasks over 1/5/15 minutes. It is not CPU temperature, disk capacity, or package count.",
+    "tags": [
+      "Linux",
+      "Performance",
+      "Hard",
+      "performance"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Linux",
+      "Performance",
+      "performance"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does Linux load average roughly represent?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "dsa-hard-median-of-two-sorted-arrays-1",
+    "question": "Median of Two Sorted Arrays",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Arrays"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Median of Two Sorted Arrays (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-regular-expression-matching-2",
+    "question": "Regular Expression Matching",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Regular Expression Matching (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-merge-k-sorted-lists-3",
+    "question": "Merge k Sorted Lists",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Merge k Sorted Lists (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-reverse-nodes-in-k-group-4",
+    "question": "Reverse Nodes in k-Group",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Linked Lists"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Reverse Nodes in k-Group (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-substring-with-concatenation-of-all-words-5",
+    "question": "Substring with Concatenation of All Words",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Substring with Concatenation of All Words (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-valid-number-6",
+    "question": "Valid Number",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Valid Number (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-longest-valid-parentheses-7",
+    "question": "Longest Valid Parentheses",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Longest Valid Parentheses (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-sudoku-solver-8",
+    "question": "Sudoku Solver",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Sudoku Solver (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-first-missing-positive-9",
+    "question": "First Missing Positive",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Networking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] First Missing Positive (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-trapping-rain-water-10",
+    "question": "Trapping Rain Water",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "AI/ML"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Trapping Rain Water (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-wildcard-matching-11",
+    "question": "Wildcard Matching",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Wildcard Matching (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-jump-game-ii-12",
+    "question": "Jump Game II",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Greedy"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Jump Game II (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-n-queens-13",
+    "question": "N-Queens",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] N-Queens (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-n-queens-ii-14",
+    "question": "N-Queens II",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Backtracking"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] N-Queens II (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-text-justification-15",
+    "question": "Text Justification",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Text Justification (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-edit-distance-16",
+    "question": "Edit Distance",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Dynamic Programming"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Edit Distance (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-minimum-window-substring-17",
+    "question": "Minimum Window Substring",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Minimum Window Substring (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-largest-rectangle-in-histogram-18",
+    "question": "Largest Rectangle in Histogram",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Stacks"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Largest Rectangle in Histogram (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-maximal-rectangle-19",
+    "question": "Maximal Rectangle",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Maximal Rectangle (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-scramble-string-20",
+    "question": "Scramble String",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Strings"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Scramble String (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-21-dynamic-programming-graph-theory-21",
+    "question": "Advanced System Design & Algorithm Challenge #21 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #21 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-22-dynamic-programming-graph-theory-22",
+    "question": "Advanced System Design & Algorithm Challenge #22 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #22 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-23-dynamic-programming-graph-theory-23",
+    "question": "Advanced System Design & Algorithm Challenge #23 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #23 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-24-dynamic-programming-graph-theory-24",
+    "question": "Advanced System Design & Algorithm Challenge #24 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #24 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-25-dynamic-programming-graph-theory-25",
+    "question": "Advanced System Design & Algorithm Challenge #25 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #25 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-26-dynamic-programming-graph-theory-26",
+    "question": "Advanced System Design & Algorithm Challenge #26 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #26 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-27-dynamic-programming-graph-theory-27",
+    "question": "Advanced System Design & Algorithm Challenge #27 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #27 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-28-dynamic-programming-graph-theory-28",
+    "question": "Advanced System Design & Algorithm Challenge #28 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #28 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-29-dynamic-programming-graph-theory-29",
+    "question": "Advanced System Design & Algorithm Challenge #29 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #29 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-30-dynamic-programming-graph-theory-30",
+    "question": "Advanced System Design & Algorithm Challenge #30 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #30 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-31-dynamic-programming-graph-theory-31",
+    "question": "Advanced System Design & Algorithm Challenge #31 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #31 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-32-dynamic-programming-graph-theory-32",
+    "question": "Advanced System Design & Algorithm Challenge #32 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #32 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-33-dynamic-programming-graph-theory-33",
+    "question": "Advanced System Design & Algorithm Challenge #33 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #33 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-34-dynamic-programming-graph-theory-34",
+    "question": "Advanced System Design & Algorithm Challenge #34 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #34 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-35-dynamic-programming-graph-theory-35",
+    "question": "Advanced System Design & Algorithm Challenge #35 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #35 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-36-dynamic-programming-graph-theory-36",
+    "question": "Advanced System Design & Algorithm Challenge #36 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #36 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-37-dynamic-programming-graph-theory-37",
+    "question": "Advanced System Design & Algorithm Challenge #37 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #37 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-38-dynamic-programming-graph-theory-38",
+    "question": "Advanced System Design & Algorithm Challenge #38 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #38 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-39-dynamic-programming-graph-theory-39",
+    "question": "Advanced System Design & Algorithm Challenge #39 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #39 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-40-dynamic-programming-graph-theory-40",
+    "question": "Advanced System Design & Algorithm Challenge #40 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #40 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-41-dynamic-programming-graph-theory-41",
+    "question": "Advanced System Design & Algorithm Challenge #41 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #41 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-42-dynamic-programming-graph-theory-42",
+    "question": "Advanced System Design & Algorithm Challenge #42 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #42 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-43-dynamic-programming-graph-theory-43",
+    "question": "Advanced System Design & Algorithm Challenge #43 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #43 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-44-dynamic-programming-graph-theory-44",
+    "question": "Advanced System Design & Algorithm Challenge #44 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #44 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-45-dynamic-programming-graph-theory-45",
+    "question": "Advanced System Design & Algorithm Challenge #45 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #45 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-46-dynamic-programming-graph-theory-46",
+    "question": "Advanced System Design & Algorithm Challenge #46 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #46 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-47-dynamic-programming-graph-theory-47",
+    "question": "Advanced System Design & Algorithm Challenge #47 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #47 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-48-dynamic-programming-graph-theory-48",
+    "question": "Advanced System Design & Algorithm Challenge #48 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #48 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-49-dynamic-programming-graph-theory-49",
+    "question": "Advanced System Design & Algorithm Challenge #49 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #49 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-50-dynamic-programming-graph-theory-50",
+    "question": "Advanced System Design & Algorithm Challenge #50 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #50 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-51-dynamic-programming-graph-theory-51",
+    "question": "Advanced System Design & Algorithm Challenge #51 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #51 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-52-dynamic-programming-graph-theory-52",
+    "question": "Advanced System Design & Algorithm Challenge #52 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #52 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-53-dynamic-programming-graph-theory-53",
+    "question": "Advanced System Design & Algorithm Challenge #53 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #53 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-54-dynamic-programming-graph-theory-54",
+    "question": "Advanced System Design & Algorithm Challenge #54 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #54 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-55-dynamic-programming-graph-theory-55",
+    "question": "Advanced System Design & Algorithm Challenge #55 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #55 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-56-dynamic-programming-graph-theory-56",
+    "question": "Advanced System Design & Algorithm Challenge #56 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #56 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-57-dynamic-programming-graph-theory-57",
+    "question": "Advanced System Design & Algorithm Challenge #57 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #57 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-58-dynamic-programming-graph-theory-58",
+    "question": "Advanced System Design & Algorithm Challenge #58 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #58 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-59-dynamic-programming-graph-theory-59",
+    "question": "Advanced System Design & Algorithm Challenge #59 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #59 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-60-dynamic-programming-graph-theory-60",
+    "question": "Advanced System Design & Algorithm Challenge #60 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #60 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-61-dynamic-programming-graph-theory-61",
+    "question": "Advanced System Design & Algorithm Challenge #61 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #61 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-62-dynamic-programming-graph-theory-62",
+    "question": "Advanced System Design & Algorithm Challenge #62 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #62 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-63-dynamic-programming-graph-theory-63",
+    "question": "Advanced System Design & Algorithm Challenge #63 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #63 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-64-dynamic-programming-graph-theory-64",
+    "question": "Advanced System Design & Algorithm Challenge #64 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #64 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-65-dynamic-programming-graph-theory-65",
+    "question": "Advanced System Design & Algorithm Challenge #65 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #65 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-66-dynamic-programming-graph-theory-66",
+    "question": "Advanced System Design & Algorithm Challenge #66 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #66 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-67-dynamic-programming-graph-theory-67",
+    "question": "Advanced System Design & Algorithm Challenge #67 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #67 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-68-dynamic-programming-graph-theory-68",
+    "question": "Advanced System Design & Algorithm Challenge #68 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #68 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-69-dynamic-programming-graph-theory-69",
+    "question": "Advanced System Design & Algorithm Challenge #69 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #69 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-70-dynamic-programming-graph-theory-70",
+    "question": "Advanced System Design & Algorithm Challenge #70 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #70 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-71-dynamic-programming-graph-theory-71",
+    "question": "Advanced System Design & Algorithm Challenge #71 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #71 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-72-dynamic-programming-graph-theory-72",
+    "question": "Advanced System Design & Algorithm Challenge #72 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #72 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-73-dynamic-programming-graph-theory-73",
+    "question": "Advanced System Design & Algorithm Challenge #73 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #73 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-74-dynamic-programming-graph-theory-74",
+    "question": "Advanced System Design & Algorithm Challenge #74 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #74 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-75-dynamic-programming-graph-theory-75",
+    "question": "Advanced System Design & Algorithm Challenge #75 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #75 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-76-dynamic-programming-graph-theory-76",
+    "question": "Advanced System Design & Algorithm Challenge #76 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #76 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-77-dynamic-programming-graph-theory-77",
+    "question": "Advanced System Design & Algorithm Challenge #77 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "TCS Digital"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #77 (Dynamic Programming / Graph Theory) (Asked in: TCS Digital)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-78-dynamic-programming-graph-theory-78",
+    "question": "Advanced System Design & Algorithm Challenge #78 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #78 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-79-dynamic-programming-graph-theory-79",
+    "question": "Advanced System Design & Algorithm Challenge #79 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #79 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-80-dynamic-programming-graph-theory-80",
+    "question": "Advanced System Design & Algorithm Challenge #80 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #80 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-81-dynamic-programming-graph-theory-81",
+    "question": "Advanced System Design & Algorithm Challenge #81 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #81 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-82-dynamic-programming-graph-theory-82",
+    "question": "Advanced System Design & Algorithm Challenge #82 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #82 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-83-dynamic-programming-graph-theory-83",
+    "question": "Advanced System Design & Algorithm Challenge #83 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #83 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-84-dynamic-programming-graph-theory-84",
+    "question": "Advanced System Design & Algorithm Challenge #84 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #84 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-85-dynamic-programming-graph-theory-85",
+    "question": "Advanced System Design & Algorithm Challenge #85 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #85 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-86-dynamic-programming-graph-theory-86",
+    "question": "Advanced System Design & Algorithm Challenge #86 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #86 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-87-dynamic-programming-graph-theory-87",
+    "question": "Advanced System Design & Algorithm Challenge #87 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #87 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-88-dynamic-programming-graph-theory-88",
+    "question": "Advanced System Design & Algorithm Challenge #88 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #88 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-89-dynamic-programming-graph-theory-89",
+    "question": "Advanced System Design & Algorithm Challenge #89 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #89 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-90-dynamic-programming-graph-theory-90",
+    "question": "Advanced System Design & Algorithm Challenge #90 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #90 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-91-dynamic-programming-graph-theory-91",
+    "question": "Advanced System Design & Algorithm Challenge #91 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #91 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-92-dynamic-programming-graph-theory-92",
+    "question": "Advanced System Design & Algorithm Challenge #92 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Microsoft"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #92 (Dynamic Programming / Graph Theory) (Asked in: Microsoft)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-93-dynamic-programming-graph-theory-93",
+    "question": "Advanced System Design & Algorithm Challenge #93 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Amazon"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #93 (Dynamic Programming / Graph Theory) (Asked in: Amazon)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-94-dynamic-programming-graph-theory-94",
+    "question": "Advanced System Design & Algorithm Challenge #94 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #94 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-95-dynamic-programming-graph-theory-95",
+    "question": "Advanced System Design & Algorithm Challenge #95 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Accenture Advanced"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #95 (Dynamic Programming / Graph Theory) (Asked in: Accenture Advanced)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-96-dynamic-programming-graph-theory-96",
+    "question": "Advanced System Design & Algorithm Challenge #96 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #96 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-97-dynamic-programming-graph-theory-97",
+    "question": "Advanced System Design & Algorithm Challenge #97 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Google"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #97 (Dynamic Programming / Graph Theory) (Asked in: Google)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-98-dynamic-programming-graph-theory-98",
+    "question": "Advanced System Design & Algorithm Challenge #98 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #98 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-99-dynamic-programming-graph-theory-99",
+    "question": "Advanced System Design & Algorithm Challenge #99 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "Meta"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #99 (Dynamic Programming / Graph Theory) (Asked in: Facebook)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  },
+  {
+    "id": "dsa-hard-advanced-system-design-algorithm-challenge-100-dynamic-programming-graph-theory-100",
+    "question": "Advanced System Design & Algorithm Challenge #100 (Dynamic Programming / Graph Theory)",
+    "category": "Engineering Fundamentals",
+    "type": "DSA",
+    "difficulty": "Hard",
+    "companyTags": [
+      "NVIDIA"
+    ],
+    "topicTags": [
+      "DSA",
+      "Graphs"
+    ],
+    "source": "Ultimate Tech Interview Master Guide",
+    "sourceLine": "[Hard] Advanced System Design & Algorithm Challenge #100 (Dynamic Programming / Graph Theory) (Asked in: Nvidia)",
+    "referenceNote": "This content is extracted from the uploaded Ultimate Tech Interview Master Guide. Company tags are preparation signals and can vary by year, role, campus, team, and interviewer."
+  }
+]

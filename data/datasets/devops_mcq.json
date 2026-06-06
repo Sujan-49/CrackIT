@@ -1,0 +1,292 @@
+[
+  {
+    "id": "pro-devops-ci",
+    "title": "Continuous Integration",
+    "domain": "DevOps",
+    "topic": "CI/CD",
+    "difficulty": "Easy",
+    "question": "What is the main goal of Continuous Integration?",
+    "options": [
+      "Frequently merge and validate code with automated checks",
+      "Avoid testing until production",
+      "Manually copy files to servers",
+      "Replace version control"
+    ],
+    "correctAnswer": [
+      "Frequently merge and validate code with automated checks"
+    ],
+    "explanation": "CI encourages frequent integration plus automated builds/tests. It does not avoid testing, rely on manual copying, or replace Git.",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Easy",
+      "ci",
+      "testing"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "CI/CD",
+      "ci",
+      "testing"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the main goal of Continuous Integration?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-container-image",
+    "title": "Container Image",
+    "domain": "DevOps",
+    "topic": "Containers",
+    "difficulty": "Easy",
+    "question": "What is a container image?",
+    "options": [
+      "An immutable package containing app files, dependencies, and metadata",
+      "A running process only",
+      "A physical server",
+      "A database transaction"
+    ],
+    "correctAnswer": [
+      "An immutable package containing app files, dependencies, and metadata"
+    ],
+    "explanation": "Images are templates used to create containers. A running instance is a container, not the image; it is not hardware or a transaction.",
+    "tags": [
+      "DevOps",
+      "Containers",
+      "Easy",
+      "docker",
+      "containers"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "Containers",
+      "docker",
+      "containers"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a container image?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-kubernetes-reconcile",
+    "title": "Kubernetes Reconciliation",
+    "domain": "DevOps",
+    "topic": "Kubernetes",
+    "difficulty": "Medium",
+    "question": "What does Kubernetes reconciliation mean?",
+    "options": [
+      "Controllers continuously move actual state toward desired state",
+      "Pods never restart",
+      "All containers run as root",
+      "YAML files execute as shell scripts"
+    ],
+    "correctAnswer": [
+      "Controllers continuously move actual state toward desired state"
+    ],
+    "explanation": "Kubernetes controllers compare desired and actual state and act to converge them. Pods can restart, root is not required, and YAML is configuration.",
+    "tags": [
+      "DevOps",
+      "Kubernetes",
+      "Medium",
+      "kubernetes"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "Kubernetes",
+      "kubernetes"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does Kubernetes reconciliation mean?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-iac",
+    "title": "Infrastructure as Code",
+    "domain": "DevOps",
+    "topic": "IaC",
+    "difficulty": "Medium",
+    "question": "Why use Infrastructure as Code?",
+    "options": [
+      "To version, review, and reproduce infrastructure changes",
+      "To avoid all security reviews",
+      "To make infrastructure invisible",
+      "To store passwords in Git"
+    ],
+    "correctAnswer": [
+      "To version, review, and reproduce infrastructure changes"
+    ],
+    "explanation": "IaC treats infrastructure definitions like code. It should not bypass security, hide infra, or store secrets in Git.",
+    "tags": [
+      "DevOps",
+      "IaC",
+      "Medium",
+      "terraform",
+      "iac"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "IaC",
+      "terraform",
+      "iac"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why use Infrastructure as Code?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-observability",
+    "title": "Observability Signals",
+    "domain": "DevOps",
+    "topic": "Monitoring",
+    "difficulty": "Medium",
+    "question": "Which three signals are commonly associated with observability?",
+    "options": [
+      "Logs, metrics, and traces",
+      "HTML, CSS, and JS",
+      "Rows, columns, and indexes",
+      "SYN, ACK, FIN"
+    ],
+    "correctAnswer": [
+      "Logs, metrics, and traces"
+    ],
+    "explanation": "Observability commonly uses logs for events, metrics for numeric trends, and traces for request paths. The other sets belong to web, DB, and TCP concepts.",
+    "tags": [
+      "DevOps",
+      "Monitoring",
+      "Medium",
+      "observability"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "Monitoring",
+      "observability"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which three signals are commonly associated with observability?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-blue-green",
+    "title": "Blue-Green Deployment",
+    "domain": "DevOps",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "What is a key benefit of blue-green deployment?",
+    "options": [
+      "Fast rollback by switching traffic back to the previous environment",
+      "No need for tests",
+      "Only one environment exists",
+      "It prevents all bugs"
+    ],
+    "correctAnswer": [
+      "Fast rollback by switching traffic back to the previous environment"
+    ],
+    "explanation": "Blue-green keeps two environments so traffic can switch quickly. Tests are still needed, two environments exist, and bugs can still happen.",
+    "tags": [
+      "DevOps",
+      "Deployment",
+      "Hard",
+      "deployment"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "Deployment",
+      "deployment"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a key benefit of blue-green deployment?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-secret-management",
+    "title": "Secret Management",
+    "domain": "DevOps",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "What is the safest way to handle production secrets in CI/CD?",
+    "options": [
+      "Use a secret manager or protected CI variables with least privilege",
+      "Commit secrets to the repository",
+      "Print secrets in logs for debugging",
+      "Share one password with all developers"
+    ],
+    "correctAnswer": [
+      "Use a secret manager or protected CI variables with least privilege"
+    ],
+    "explanation": "Secret managers and protected variables reduce exposure. Committing, logging, or sharing secrets creates serious security risk.",
+    "tags": [
+      "DevOps",
+      "Security",
+      "Hard",
+      "secrets",
+      "security"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "Security",
+      "secrets",
+      "security"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is the safest way to handle production secrets in CI/CD?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-devops-canary",
+    "title": "Canary Release",
+    "domain": "DevOps",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "What is a canary release?",
+    "options": [
+      "Gradually exposing a new version to a small subset of traffic before full rollout",
+      "Deploying directly to every user with no monitoring",
+      "A backup-only strategy",
+      "A database normalization technique"
+    ],
+    "correctAnswer": [
+      "Gradually exposing a new version to a small subset of traffic before full rollout"
+    ],
+    "explanation": "Canary releases reduce blast radius and use monitoring before expanding rollout. The other choices do not describe canary deployment.",
+    "tags": [
+      "DevOps",
+      "Deployment",
+      "Hard",
+      "deployment",
+      "canary"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "DevOps",
+      "Deployment",
+      "deployment",
+      "canary"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What is a canary release?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]

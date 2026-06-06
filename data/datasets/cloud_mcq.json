@@ -1,0 +1,298 @@
+[
+  {
+    "id": "pro-cloud-shared-responsibility",
+    "title": "Shared Responsibility",
+    "domain": "Cloud Computing",
+    "topic": "Cloud Security",
+    "difficulty": "Easy",
+    "question": "What does the cloud shared responsibility model mean?",
+    "options": [
+      "Provider and customer split security responsibilities depending on service type",
+      "The provider handles every customer security task",
+      "The customer owns physical datacenter security",
+      "No one is responsible for backups"
+    ],
+    "correctAnswer": [
+      "Provider and customer split security responsibilities depending on service type"
+    ],
+    "explanation": "Cloud providers secure infrastructure, while customers secure their data/configuration depending on IaaS/PaaS/SaaS. The provider does not handle every task, customers do not secure provider datacenters, and backups still need ownership.",
+    "tags": [
+      "Cloud Computing",
+      "Cloud Security",
+      "Easy",
+      "cloud",
+      "security"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Cloud Security",
+      "cloud",
+      "security"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does the cloud shared responsibility model mean?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-object-storage",
+    "title": "Object Storage",
+    "domain": "Cloud Computing",
+    "topic": "Storage",
+    "difficulty": "Easy",
+    "question": "Which workload is object storage like Amazon S3 best suited for?",
+    "options": [
+      "Storing images, backups, logs, and static assets as objects",
+      "Running CPU instructions directly",
+      "Replacing RAM",
+      "Managing process scheduling"
+    ],
+    "correctAnswer": [
+      "Storing images, backups, logs, and static assets as objects"
+    ],
+    "explanation": "Object storage stores blobs with metadata at scale. It does not execute CPU instructions, replace RAM, or schedule OS processes.",
+    "tags": [
+      "Cloud Computing",
+      "Storage",
+      "Easy",
+      "s3",
+      "storage"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Storage",
+      "s3",
+      "storage"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which workload is object storage like Amazon S3 best suited for?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-auto-scaling",
+    "title": "Auto Scaling Trigger",
+    "domain": "Cloud Computing",
+    "topic": "Scalability",
+    "difficulty": "Medium",
+    "question": "Why is auto scaling used in cloud systems?",
+    "options": [
+      "To adjust capacity based on demand",
+      "To disable monitoring",
+      "To make all servers stateful",
+      "To remove the need for load balancing always"
+    ],
+    "correctAnswer": [
+      "To adjust capacity based on demand"
+    ],
+    "explanation": "Auto scaling adds or removes capacity as load changes. It requires monitoring, often benefits from stateless design, and commonly works with load balancers.",
+    "tags": [
+      "Cloud Computing",
+      "Scalability",
+      "Medium",
+      "scaling"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Scalability",
+      "scaling"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why is auto scaling used in cloud systems?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-iaas-paas-saas",
+    "title": "IaaS vs PaaS",
+    "domain": "Cloud Computing",
+    "topic": "Service Models",
+    "difficulty": "Medium",
+    "question": "Which statement correctly describes PaaS compared with IaaS?",
+    "options": [
+      "PaaS abstracts more infrastructure management from developers",
+      "PaaS always gives root access to physical hosts",
+      "IaaS removes all server management",
+      "SaaS and IaaS are identical"
+    ],
+    "correctAnswer": [
+      "PaaS abstracts more infrastructure management from developers"
+    ],
+    "explanation": "PaaS manages more runtime/platform concerns so developers focus on apps. It usually does not expose physical root, IaaS still requires more server management, and SaaS/IaaS differ significantly.",
+    "tags": [
+      "Cloud Computing",
+      "Service Models",
+      "Medium",
+      "iaas",
+      "paas",
+      "saas"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Service Models",
+      "iaas",
+      "paas",
+      "saas"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which statement correctly describes PaaS compared with IaaS?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-regions-az",
+    "title": "Regions and Availability Zones",
+    "domain": "Cloud Computing",
+    "topic": "Architecture",
+    "difficulty": "Medium",
+    "question": "Why deploy across multiple availability zones?",
+    "options": [
+      "To improve resilience against zone-level failure",
+      "To reduce authentication requirements",
+      "To make backups unnecessary",
+      "To force all traffic through one server"
+    ],
+    "correctAnswer": [
+      "To improve resilience against zone-level failure"
+    ],
+    "explanation": "Multiple AZs reduce impact from a single zone outage. They do not remove auth, backups, or require single-server traffic.",
+    "tags": [
+      "Cloud Computing",
+      "Architecture",
+      "Medium",
+      "resilience",
+      "availability"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Architecture",
+      "resilience",
+      "availability"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Why deploy across multiple availability zones?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-eventual-consistency",
+    "title": "Eventual Consistency",
+    "domain": "Cloud Computing",
+    "topic": "Distributed Storage",
+    "difficulty": "Hard",
+    "question": "What does eventual consistency mean?",
+    "options": [
+      "Replicas may temporarily differ but converge if no new updates occur",
+      "Data is always immediately identical everywhere",
+      "Writes are impossible",
+      "Only one server can read data"
+    ],
+    "correctAnswer": [
+      "Replicas may temporarily differ but converge if no new updates occur"
+    ],
+    "explanation": "Eventual consistency allows temporary divergence for availability/performance. Strong immediate equality is strong consistency, and reads/writes are still possible.",
+    "tags": [
+      "Cloud Computing",
+      "Distributed Storage",
+      "Hard",
+      "distributed-systems",
+      "consistency"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Distributed Storage",
+      "distributed-systems",
+      "consistency"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "What does eventual consistency mean?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-zero-downtime",
+    "title": "Zero-Downtime Deployment",
+    "domain": "Cloud Computing",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which practice best supports zero-downtime deployment?",
+    "options": [
+      "Rolling or blue-green deployment with health checks",
+      "Stopping all servers before release",
+      "Manual database edits in production only",
+      "Disabling monitoring during deploy"
+    ],
+    "correctAnswer": [
+      "Rolling or blue-green deployment with health checks"
+    ],
+    "explanation": "Rolling/blue-green releases keep serving traffic while validating healthy instances. Stopping all servers causes downtime, manual DB edits are risky, and monitoring should stay enabled.",
+    "tags": [
+      "Cloud Computing",
+      "Deployment",
+      "Hard",
+      "deployment",
+      "availability"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Deployment",
+      "deployment",
+      "availability"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which practice best supports zero-downtime deployment?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  },
+  {
+    "id": "pro-cloud-cost-control",
+    "title": "Cloud Cost Control",
+    "domain": "Cloud Computing",
+    "topic": "Cost",
+    "difficulty": "Hard",
+    "question": "Which action most directly helps control unexpected cloud cost?",
+    "options": [
+      "Budgets, alerts, right-sizing, and shutting down unused resources",
+      "Giving admin access to everyone",
+      "Ignoring logs",
+      "Using only one region forever"
+    ],
+    "correctAnswer": [
+      "Budgets, alerts, right-sizing, and shutting down unused resources"
+    ],
+    "explanation": "Cost control needs visibility and resource hygiene. Broad admin access increases risk, ignoring logs hides waste, and one region alone does not solve cost issues.",
+    "tags": [
+      "Cloud Computing",
+      "Cost",
+      "Hard",
+      "cost",
+      "finops"
+    ],
+    "category": "Infrastructure",
+    "type": "MCQ",
+    "topicTags": [
+      "Cloud Computing",
+      "Cost",
+      "cost",
+      "finops"
+    ],
+    "companyTags": [],
+    "source": "CrackIT Professional MCQ Bank",
+    "sourceLine": "Which action most directly helps control unexpected cloud cost?",
+    "referenceNote": "Curated professional MCQ. Each option is designed to test a specific interview concept."
+  }
+]
